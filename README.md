@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ArthOfficial
+- 👀 I’m interested in Web Desiging
+- 🎮 I play Minecraft Java Edition
+- 🌱 I’m currently learning Python
+- 📫 How to reach me 
+- ✉️ You can reach me with the help of discord or gmail
+- 📧 Email: arthplayzofficial@gmail.com
+- ![BaianoGamerFeijoadaGIF](https://user-images.githubusercontent.com/107664148/184615707-f66465ec-0d72-4ed4-8b28-090109f33ff3.gif) Discord: Narco Gam3X#5757
+- 📃You can know more about me here : [arthofficial.github.io/Server-Website](https://arthofficial.github.io/Server-Website/)
