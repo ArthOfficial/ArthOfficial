@@ -1,10 +1,10 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Arth aka Narco</h1>
 <h3 align="center">Founder • Full-Stack Developer • AI Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ArthOfficial">
+    <img src="https://komarev.com/ghpvc/?username=ArthOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -16,6 +16,7 @@ I’m a 17-year-old full-stack developer building real-world systems powered by 
 
 I focus on:
 - 🏫 Education technology
+- 💪 Some Curious Stuff
 - 🤖 AI-powered automation
 - 🛠️ End-to-end product development
 - ⚡ Shipping fast and iterating faster
@@ -28,13 +29,7 @@ Currently building **Edunex**, a school management system designed to modernize 
 
 ## 🧠 What I’m Building
 
-### 🏫 Edunex – AI-Powered School Management System
-A modern school infrastructure platform that includes:
-- Student & teacher management
-- Attendance & grading systems
-- Role-based dashboards
-- AI-powered analytics and automation
-- Secure authentication & database design
+### 🏫 Edunex – A AI Powered (Something Can't Tell Its A Secret ;-; )
 
 > Built with scalability and real-world school workflows in mind.
 
@@ -103,19 +98,7 @@ Built platforms for:
 - Vercel
 - Render
 - Cloud services
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
+- 
 ---
 
 ## 🎯 My Mission
@@ -133,9 +116,9 @@ And I’m working toward making that accessible.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: [Add if you have]
-- Email: [Add if professional]
+- GitHub: https://github.com/ArthOfficial
+- Email: purohitarthbkn@gmail.com
+- Portfolio: https://arth-hub.vercel.app/
 
 ---
 
