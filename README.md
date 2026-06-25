@@ -4,9 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ArthOfficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+KryinLabs;%231+on+GitHub+Trending;Building+the+Future+of+AI+Agents;Open+Source+AI+Enthusiast" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Founder+&+Ceo+@+KryinLabs;%231Building+the+Future+of+AI+Workspace;ViberCoder+Curious+Learner" alt="Typing SVG" />
----
+    <a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+Of+KryinLabs;Building+the+future+of+AI+Workspace;Building+the+Future+of+AI+Agents;ViberCoder+%26+Curious+Learner" alt="Typing SVG" /> </a>
     <img src="https://komarev.com/ghpvc/?username=ArthOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
