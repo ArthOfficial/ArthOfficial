@@ -1,9 +1,10 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Arth aka Narco</h1>
-<h3 align="center">Founder • Full-Stack Developer • AI Builder</h3>
+<h3 align="center">Vibe Coder • Full-Stack Developer • Pentester • AI Builder</h3>
 
 <p align="center">
   <a href="https://github.com/ArthOfficial">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Founder+&+Ceo+@+KryinLabs;%231Building+the+Future+of+AI+Workspace;ViberCoder+Curious+Learner" alt="Typing SVG" />
     <img src="https://komarev.com/ghpvc/?username=ArthOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
