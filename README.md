@@ -21,25 +21,27 @@
   </a>
 </p>
 
----
+<h2 align="center">🚀 About Me</h2>
 
-## 🚀 About Me
+<p align="center">
+I'm <strong>Arth (Narco)</strong>, a 17-year-old founder and full-stack developer.
+</p>
 
-I’m a 17-year-old full-stack developer building real-world systems powered by AI.
+<p align="center">
+Building AI-powered products through <strong>KryinLabs</strong>.
+</p>
 
-I focus on:
-- 🏫 Education technology
-- 💪 Some Curious Stuff
-- 🤖 AI-powered automation
-- 🛠️ End-to-end product development
-- ⚡ Shipping fast and iterating faster
+<p align="center">
+🤖 AI & Automation • 🏫 Education Tech • ⚡ SaaS • 🌐 Full-Stack Development
+</p>
 
-I build independently — from idea → architecture → deployment → user testing.
+<p align="center">
+Currently building <strong>Edunex</strong>, an AI-powered platform focused on modernizing educational institutions.
+</p>
 
-Currently building **Edunex**, a school management system designed to modernize academic operations using AI-driven tools.
-
----
-
+<p align="center">
+Idea → Architecture → Development → Deployment → Real Users
+</p>
 ## 🧠 What I’m Building
 
 ### 🏫 Edunex – A AI Powered (Something Can't Tell Its A Secret ;-; )
