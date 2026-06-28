@@ -33,8 +33,9 @@ Currently building **Edunex**, an AI-powered platform designed to modernize educ
 
 > From IDEA → ARCHITECTURE → DEPLOYMENT → USERS
 
+---
 
-### What I Work On
+### ⭐ What I Work On
 
 - 🤖 AI Agents & Automation
 - 🏫 Education Technology
