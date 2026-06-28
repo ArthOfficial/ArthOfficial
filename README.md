@@ -29,11 +29,10 @@ I'm Arth (Narco), a 17-year-old founder and full-stack developer.
 
 Through **KryinLabs**, I build products that solve real-world problems using software, automation, and artificial intelligence.
 
-> Currently building **Edunex**, an AI-powered platform designed to modernize educational institutions and academic workflows.
+Currently building **Edunex**, an AI-powered platform designed to modernize educational institutions and academic workflows.
 
-From idea → architecture → deployment → real users.
+> From IDEA → ARCHITECTURE → DEPLOYMENT → USERS
 
-<p><a>** **</a></p>
 
 ### What I Work On
 
