@@ -62,9 +62,7 @@ Curiosity Level
 
 ## ⚡ Currently Building
 
-* 🏫 **Edunex** — AI-powered education infrastructure platform
-* 🧠 **InsightFlow AI** — YouTube intelligence & analytics platform
-* 👨‍👩‍👧 **Parental Monitoring System** — Digital safety platform
+* 🏫 **Edunex** — Education infrastructure platform
 * 🚀 **KryinLabs** — AI products, automation, and SaaS ventures
 
 ---
