@@ -177,6 +177,6 @@ Building the next generation of AI-powered software through KryinLabs while crea
 
 ## 🌐 Connect
 
-* GitHub → ArthOfficial
-* Portfolio → arth-hub.vercel.app
+- GitHub → [ArthOfficial](https://github.com/ArthOfficial)
+* Portfolio → **[ArthHub](https://arth-hub.vercel.app/)**
 * Email → [purohitarthbkn@gmail.com](mailto:purohitarthbkn@gmail.com)
