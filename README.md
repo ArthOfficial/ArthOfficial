@@ -35,18 +35,7 @@ Currently building **Edunex**, an AI-powered platform designed to modernize educ
 
 ---
 
-### ⭐ What I Work On
-
-- 🤖 AI Agents & Automation
-- 🏫 Education Technology
-- 🌐 Full-Stack Web Applications
-- ⚡ SaaS Products
-- 🔒 Security & System Design
-- 🚀 Turning Ideas into Production Systems
-
----
-
-## 🛠️ Projects & Ventures
+## 🛠️ Projects
 
 <details>
 <summary><b>🏫 Edunex</b> — AI-Powered School Management Platform</summary>
