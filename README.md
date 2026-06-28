@@ -25,18 +25,22 @@
 
 ## 🚀 About Me
 
-I’m a 17-year-old full-stack developer building real-world systems powered by AI.
+I'm Arth (Narco), a 17-year-old founder and full-stack developer.
 
-I focus on:
-- 🏫 Education technology
-- 💪 Some Curious Stuff
-- 🤖 AI-powered automation
-- 🛠️ End-to-end product development
-- ⚡ Shipping fast and iterating faster
+Through **KryinLabs**, I build products that solve real-world problems using software, automation, and artificial intelligence.
 
-I build independently — from idea → architecture → deployment → user testing.
+> Currently building **Edunex**, an AI-powered platform designed to modernize educational institutions and academic workflows.
 
-Currently building **Edunex**, a school management system designed to modernize academic operations using AI-driven tools.
+From idea → architecture → deployment → real users.
+
+### What I Work On
+
+- 🤖 AI Agents & Automation
+- 🏫 Education Technology
+- 🌐 Full-Stack Web Applications
+- ⚡ SaaS Products
+- 🔒 Security & System Design
+- 🚀 Turning Ideas into Production Systems
 
 ---
 
@@ -48,42 +52,135 @@ Currently building **Edunex**, a school management system designed to modernize 
 
 ---
 
-## 🛠️ Other Projects
+## 🛠️ Projects & Ventures
 
-### 📚 AI Study Planner
-An intelligent planner that:
-- Generates adaptive study schedules
-- Tracks progress
-- Adjusts based on performance
-- Uses AI for optimization
+<details>
+<summary><b>🏫 Edunex</b> — AI-Powered School Management Platform</summary>
 
----
+<br>
 
-### 👨‍👩‍👦 Parental Monitoring System
-A web-based system allowing:
-- Activity tracking
-- Controlled access environments
-- Admin dashboards
-- Secure data handling
+A next-generation education platform designed to modernize academic institutions through automation and artificial intelligence.
 
----
+**Key Features**
 
-### 🆔 University ID Generator
-- Automated ID creation
-- PDF generation
-- Database integration
-- Admin management system
+* AI-powered academic workflows
+* Student & staff management
+* Attendance and administration systems
+* Smart reporting & analytics
+* Scalable multi-tenant architecture
 
----
+**Tech Stack**
+Next.js • TypeScript • Supabase • PostgreSQL • AI APIs
 
-### 🎮 Minecraft Community Platforms
-Built platforms for:
-- Community engagement
-- Role management
-- Server-based interaction systems
-- Authentication & dashboard tools
+</details>
 
----
+<details>
+<summary><b>🧠 InsightFlow AI</b> — AI-Powered YouTube Analytics Platform</summary>
+
+<br>
+
+A SaaS platform that helps creators, businesses, and communities extract actionable insights from YouTube content.
+
+**Capabilities**
+
+* Video & comment sentiment analysis
+* Audience feedback intelligence
+* Feature request detection
+* Topic clustering & trend discovery
+* AI-generated recommendations
+* Automated reports & notifications
+
+**Tech Stack**
+Next.js • AI Models • Supabase • Analytics Engine
+
+</details>
+
+<details>
+<summary><b>📚 AI Study Planner</b> — Personalized Learning Assistant</summary>
+
+<br>
+
+An intelligent study planning system designed to optimize learning efficiency.
+
+**Features**
+
+* Adaptive study schedules
+* Progress tracking
+* Performance-based adjustments
+* AI-driven recommendations
+* Goal management system
+
+</details>
+
+<details>
+<summary><b>👨‍👩‍👧 Parental Monitoring System</b></summary>
+
+<br>
+
+A web platform focused on digital safety, monitoring, and administrative control.
+
+**Features**
+
+* Activity monitoring
+* Controlled access environments
+* Administrative dashboards
+* Secure data management
+* User management controls
+
+</details>
+
+<details>
+<summary><b>🆔 University Identity Management System</b></summary>
+
+<br>
+
+A centralized identity management solution for educational institutions.
+
+**Features**
+
+* Automated ID generation
+* PDF card creation
+* Student database integration
+* Administrative approval workflows
+* Secure record management
+
+</details>
+
+<details>
+<summary><b>🎮 Minecraft Community Platforms</b></summary>
+
+<br>
+
+Built community-focused systems for gaming networks and online communities.
+
+**Features**
+
+* Authentication systems
+* Community dashboards
+* Role & permission management
+* User engagement tools
+* Server management integrations
+
+</details>
+
+<details>
+<summary><b>🚀 KryinLabs</b> — Building AI-Powered Products</summary>
+
+<br>
+
+KryinLabs is my venture focused on creating software products, AI solutions, automation systems, and next-generation digital experiences.
+
+**Focus Areas**
+
+* Artificial Intelligence
+* SaaS Platforms
+* Education Technology
+* Automation Systems
+* Productivity Tools
+* Future AI Workspaces
+
+</details>
+
 
 ## 💻 Tech Stack
 
