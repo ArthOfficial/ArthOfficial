@@ -25,73 +25,84 @@
 
 ## 🚀 About Me
 
-I'm Arth (Narco), a 17-year-old founder and full-stack developer.
+I'm **Arth (Narco)**, a 17-year-old developer, builder, and founder from India.
 
-Through **KryinLabs**, I build products that solve real-world problems using software, automation, and artificial intelligence.
+I started by experimenting with Discord communities, Minecraft ecosystems, and automation projects. Over time, that curiosity evolved into building full-stack applications, AI-powered systems, and products designed for real users.
 
-Currently building **Edunex**, an AI-powered platform designed to modernize educational institutions and academic workflows.
+Today, through **KryinLabs**, I'm focused on creating software that combines artificial intelligence, automation, and thoughtful user experiences.
 
-> From IDEA → ARCHITECTURE → DEPLOYMENT → USERS
+> I don't wait until I'm ready. I learn by shipping.
+>
+> Every project is a classroom, and every bug is a lesson.
 
 ---
 
-## 🛠️ Projects
+## 📈 By The Numbers
+
+<table>
+<tr>
+<td align="center">
+<h3>3+</h3>
+Years Coding
+</td>
+
+<td align="center">
+<h3>5+</h3>
+Major Projects
+</td>
+
+<td align="center">
+<h3>∞</h3>
+Curiosity Level
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Currently Building
+
+* 🏫 **Edunex** — AI-powered education infrastructure platform
+* 🧠 **InsightFlow AI** — YouTube intelligence & analytics platform
+* 👨‍👩‍👧 **Parental Monitoring System** — Digital safety platform
+* 🚀 **KryinLabs** — AI products, automation, and SaaS ventures
+
+---
+
+## 🛠️ Featured Projects
 
 <details>
-<summary><b>🏫 Edunex</b> — AI-Powered School Management Platform</summary>
+<summary><b>🏫 Edunex — Education Infrastructure Platform</b></summary>
 
 <br>
 
-A next-generation education platform designed to modernize academic institutions through automation and artificial intelligence.
+A modern school operating system designed to simplify administration, communication, analytics, and academic workflows.
 
-**Key Features**
+**Highlights**
 
-* AI-powered academic workflows
 * Student & staff management
-* Attendance and administration systems
-* Smart reporting & analytics
-* Scalable multi-tenant architecture
-
-**Tech Stack**
-Next.js • TypeScript • Supabase • PostgreSQL • AI APIs
+* Smart attendance systems
+* Academic workflow automation
+* Reporting & analytics
+* AI-powered tools
 
 </details>
 
 <details>
-<summary><b>🧠 InsightFlow AI</b> — AI-Powered YouTube Analytics Platform</summary>
+<summary><b>🧠 InsightFlow AI — YouTube Intelligence Platform</b></summary>
 
 <br>
 
-A SaaS platform that helps creators, businesses, and communities extract actionable insights from YouTube content.
+An AI-powered analytics platform that transforms videos, comments, and audience feedback into actionable insights.
 
-**Capabilities**
+**Highlights**
 
-* Video & comment sentiment analysis
-* Audience feedback intelligence
-* Feature request detection
-* Topic clustering & trend discovery
-* AI-generated recommendations
-* Automated reports & notifications
-
-**Tech Stack**
-Next.js • AI Models • Supabase • Analytics Engine
-
-</details>
-
-<details>
-<summary><b>📚 AI Study Planner</b> — Personalized Learning Assistant</summary>
-
-<br>
-
-An intelligent study planning system designed to optimize learning efficiency.
-
-**Features**
-
-* Adaptive study schedules
-* Progress tracking
-* Performance-based adjustments
-* AI-driven recommendations
-* Goal management system
+* Comment sentiment analysis
+* Topic clustering
+* Audience intelligence
+* Feature request extraction
+* Automated reporting
+* Creator growth insights
 
 </details>
 
@@ -100,15 +111,15 @@ An intelligent study planning system designed to optimize learning efficiency.
 
 <br>
 
-A web platform focused on digital safety, monitoring, and administrative control.
+A digital safety platform focused on transparency, monitoring, and responsible device management.
 
-**Features**
+**Highlights**
 
 * Activity monitoring
-* Controlled access environments
-* Administrative dashboards
-* Secure data management
-* User management controls
+* Dashboard analytics
+* Permission controls
+* Alerts & notifications
+* Secure infrastructure
 
 </details>
 
@@ -117,102 +128,55 @@ A web platform focused on digital safety, monitoring, and administrative control
 
 <br>
 
-A centralized identity management solution for educational institutions.
+Institutional identity and access management platform.
 
-**Features**
+**Highlights**
 
-* Automated ID generation
-* PDF card creation
-* Student database integration
-* Administrative approval workflows
-* Secure record management
+* ID card generation
+* PDF automation
+* Approval workflows
+* Database integration
+* Administrative controls
 
 </details>
 
 <details>
-<summary><b>🎮 Minecraft Community Platforms</b></summary>
+<summary><b>🎮 Minecraft Community Ecosystem</b></summary>
 
 <br>
 
-Built community-focused systems for gaming networks and online communities.
+A collection of web platforms, Discord integrations, automation tools, and infrastructure systems for gaming communities.
 
-**Features**
+**Highlights**
 
 * Authentication systems
 * Community dashboards
-* Role & permission management
-* User engagement tools
-* Server management integrations
+* Server integrations
+* Automation workflows
+* Role management
 
 </details>
 
-<details>
-<summary><b>🚀 KryinLabs</b> — Building AI-Powered Products</summary>
-
-<br>
-
-KryinLabs is my venture focused on creating software products, AI solutions, automation systems, and next-generation digital experiences.
-
-**Focus Areas**
-
-* Artificial Intelligence
-* SaaS Platforms
-* Education Technology
-* Automation Systems
-* Productivity Tools
-* Future AI Workspaces
-
-</details>
-
-
-## 💻 Tech Stack
-
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-- REST APIs
-
-**Database**
-- MongoDB
-- PostgreSQL
-
-**AI & Tools**
-- OpenAI APIs
-- Anthropic APIs
-- Prompt Engineering
-- Automation workflows
-
-**Deployment**
-- Vercel
-- Render
-- Cloud services
-- 
 ---
 
-## 🎯 My Mission
+## 🧠 Philosophy
 
-I’m building infrastructure-level tools for education.
+I enjoy building products that people actually use.
 
-I believe schools deserve:
-- Better systems
-- Better automation
-- Better data intelligence
+Whether it's an AI platform, an educational system, or a community tool, my goal is always the same:
 
-And I’m working toward making that accessible.
+**Build something useful. Ship it. Learn from it. Improve it. Repeat.**
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Mission
 
-- GitHub: https://github.com/ArthOfficial
-- Email: purohitarthbkn@gmail.com
-- Portfolio: https://arth-hub.vercel.app/
+Building the next generation of AI-powered software through KryinLabs while creating tools that improve education, productivity, and digital experiences.
 
 ---
 
-> “Build things that solve real problems.”
+## 🌐 Connect
+
+* GitHub → ArthOfficial
+* Portfolio → arth-hub.vercel.app
+* Email → [purohitarthbkn@gmail.com](mailto:purohitarthbkn@gmail.com)
