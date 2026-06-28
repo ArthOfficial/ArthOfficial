@@ -24,7 +24,6 @@
 ---
 
 ## 🚀 About Me
-** **
 
 I'm Arth (Narco), a 17-year-old founder and full-stack developer.
 
@@ -34,7 +33,7 @@ Through **KryinLabs**, I build products that solve real-world problems using sof
 
 From idea → architecture → deployment → real users.
 
-<p><a></a></p>
+<p><a>** **</a></p>
 
 ### What I Work On
 
@@ -45,7 +44,6 @@ From idea → architecture → deployment → real users.
 - 🔒 Security & System Design
 - 🚀 Turning Ideas into Production Systems
 
-** **
 ---
 
 ## 🛠️ Projects & Ventures
