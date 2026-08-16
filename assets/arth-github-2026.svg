@@ -1,59 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 360" width="1400" height="360">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" width="1400" height="420">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b0d"/><stop offset="0.55" stop-color="#0b1215"/><stop offset="1" stop-color="#080d0f"/></linearGradient>
-  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="0.55" stop-color="#22d3ee" stop-opacity="0.18"/><stop offset="1" stop-color="#34d399" stop-opacity="0.7"/></linearGradient>
-  <linearGradient id="rule" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0.9"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
-  <radialGradient id="ambient" cx="82%" cy="28%" r="65%"><stop stop-color="#22d3ee" stop-opacity="0.09"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9fb0b5" stroke-opacity="0.045"/></pattern>
-  <filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080c0e"/><stop offset="1" stop-color="#10181b"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#21c8d6"/><stop offset="1" stop-color="#21c8d6" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#c5d1d4" stroke-opacity=".028"/></pattern>
   <style>
-    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,SFMono-Regular,monospace}
-    .quiet{animation:quiet 7s ease-in-out infinite}
-    .scan{animation:scan 4.8s ease-in-out infinite}
-    .signal{animation:signal 3.6s linear infinite}
-    @keyframes quiet{0%,100%{opacity:.72}50%{opacity:1}}
-    @keyframes scan{0%{transform:translateX(-520px);opacity:0}12%{opacity:.8}52%{opacity:.8}72%{opacity:0}100%{transform:translateX(920px);opacity:0}}
-    @keyframes signal{0%{transform:translateX(0);opacity:0}10%{opacity:1}70%{opacity:1}100%{transform:translateX(500px);opacity:0}}
+    .s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+    .draw{animation:draw 8s ease-in-out infinite}.blink{animation:blink 4s ease-in-out infinite}
+    @keyframes draw{0%,18%{opacity:0;transform:scaleX(.35);transform-origin:left}30%,78%{opacity:1;transform:scaleX(1)}90%,100%{opacity:0;transform:scaleX(.35);transform-origin:left}}
+    @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
   </style>
 </defs>
 
-<rect width="1400" height="360" rx="18" fill="url(#bg)"/>
-<rect width="1400" height="360" rx="18" fill="url(#ambient)"/>
-<rect width="1400" height="360" rx="18" fill="url(#grid)" class="quiet"/>
-<rect x="1" y="1" width="1398" height="358" rx="18" fill="none" stroke="#1b3035"/>
-<path d="M28 74V28H74M1326 28h46v46M28 286v46h46M1326 332h46v-46" fill="none" stroke="#22d3ee" stroke-width="2" stroke-opacity=".75"/>
+<!-- quiet, editorial canvas -->
+<rect width="1400" height="420" rx="22" fill="url(#bg)"/>
+<rect width="1400" height="420" rx="22" fill="url(#grid)"/>
+<rect x="1" y="1" width="1398" height="418" rx="21" fill="none" stroke="#26363a"/>
 
-<text x="58" y="54" class="mono" font-size="13" letter-spacing="4" fill="#67e8f9">ARTH / GITHUB / 2026</text>
-<circle cx="1340" cy="49" r="4" fill="#34d399"/>
-<text x="1365" y="54" text-anchor="end" class="mono" font-size="11" letter-spacing="2.5" fill="#6ee7b7">ONLINE</text>
+<!-- header -->
+<text x="60" y="58" class="m" font-size="12" letter-spacing="4" fill="#71878c">ARTH OFFICIAL</text>
+<text x="60" y="82" class="m" font-size="10" letter-spacing="2.5" fill="#4f686e">GITHUB PROFILE / 2026</text>
+<text x="1340" y="58" text-anchor="end" class="m" font-size="10" letter-spacing="3" fill="#4f686e">INDIA</text>
 
-<g>
-  <text x="58" y="196" class="sans" font-size="150" font-weight="800" letter-spacing="-8" fill="#f3f6f7">ARTH</text>
-  <rect x="58" y="214" width="96" height="3" fill="#22d3ee" class="scan"/>
+<!-- primary identity -->
+<text x="60" y="220" class="s" font-size="158" font-weight="800" letter-spacing="-10" fill="#f1f4f4">ARTH</text>
+<circle cx="392" cy="208" r="5" fill="#21c8d6" class="blink"/>
+<text x="62" y="260" class="m" font-size="13" letter-spacing="3.5" fill="#9aafb3">FULL-STACK DEVELOPER</text>
+<text x="62" y="288" class="m" font-size="10" letter-spacing="2.4" fill="#60787d">AI INTEGRATION  /  AUTOMATION  /  SYSTEMS</text>
+<rect x="62" y="314" width="460" height="1" fill="#263b40"/>
+<rect x="62" y="314" width="190" height="1" fill="url(#accent)" class="draw"/>
+<text x="62" y="344" class="m" font-size="10" letter-spacing="2" fill="#526a70">BUILDING SOFTWARE THROUGH KRYINLABS</text>
+
+<!-- deliberate vertical divider -->
+<line x1="760" y1="58" x2="760" y2="358" stroke="#26383d"/>
+
+<!-- right information block -->
+<text x="812" y="82" class="m" font-size="10" letter-spacing="3" fill="#627b80">CURRENT FOCUS</text>
+<text x="812" y="132" class="s" font-size="36" font-weight="700" fill="#edf2f2">Kryin Office</text>
+<text x="812" y="158" class="m" font-size="10" letter-spacing="1.8" fill="#82999e">LANGGRAPH  /  AI WORKFLOWS  /  APIS</text>
+
+<line x1="812" y1="187" x2="1340" y2="187" stroke="#223439"/>
+<text x="812" y="219" class="m" font-size="10" letter-spacing="3" fill="#627b80">EDUCATION</text>
+<text x="812" y="251" class="s" font-size="22" font-weight="600" fill="#dce4e6">Engineering College Bikaner</text>
+<text x="812" y="276" class="m" font-size="10" letter-spacing="2" fill="#627b80">ECB  /  INDIA</text>
+
+<!-- only a restrained status animation -->
+<g class="blink">
+  <circle cx="1284" cy="82" r="4" fill="#35d29a"/>
+  <text x="1300" y="86" class="m" font-size="9" letter-spacing="2.2" fill="#69dcae">ACTIVE</text>
 </g>
-<text x="62" y="248" class="mono" font-size="14" letter-spacing="3.2" fill="#9db2b7">FULL-STACK DEVELOPER  ·  AI  ·  SYSTEMS</text>
-<rect x="62" y="274" width="575" height="1" fill="url(#rule)"/>
-<text x="62" y="306" class="mono" font-size="11" letter-spacing="2" fill="#617b82">BUILDING PRODUCTS WITH SOFTWARE, AUTOMATION &amp; INTELLIGENT WORKFLOWS</text>
 
-<line x1="748" y1="72" x2="748" y2="298" stroke="#20373d"/>
-<text x="798" y="82" class="mono" font-size="11" letter-spacing="3" fill="#5f7b82">CURRENT WORK</text>
-<text x="798" y="135" class="sans" font-size="39" font-weight="720" fill="#eef3f4">Kryin Office</text>
-<rect x="798" y="153" width="420" height="1" fill="#203a40"/>
-<text x="798" y="184" class="mono" font-size="12" letter-spacing="1.8" fill="#91a8ad">LANGGRAPH  ·  AI WORKFLOWS  ·  APIS</text>
-
-<text x="798" y="231" class="mono" font-size="11" letter-spacing="3" fill="#5f7b82">EDUCATION</text>
-<text x="798" y="260" class="sans" font-size="22" font-weight="620" fill="#dce5e7">Engineering College Bikaner</text>
-<text x="798" y="286" class="mono" font-size="10" letter-spacing="2.2" fill="#6a8389">ECB  /  INDIA</text>
-
-<g class="quiet">
-  <circle cx="1250" cy="82" r="5" fill="#34d399"/>
-  <circle cx="1250" cy="82" r="12" fill="none" stroke="#34d399" stroke-opacity=".22">
-    <animate attributeName="r" values="6;17;6" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".45;0;.45" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <text x="1270" y="86" class="mono" font-size="10" letter-spacing="2.2" fill="#6ee7b7">ACTIVE</text>
-</g>
-
-<g class="signal" fill="#22d3ee"><circle cx="770" cy="72" r="2.5"/><circle cx="778" cy="72" r="1" opacity=".4"/></g>
-<text x="1340" y="330" text-anchor="end" class="mono" font-size="10" letter-spacing="2.5" fill="#506a71">BUILD / SHIP / LEARN</text>
+<!-- footer -->
+<line x1="60" y1="382" x2="1340" y2="382" stroke="#26383d"/>
+<text x="60" y="400" class="m" font-size="9" letter-spacing="2.4" fill="#4d656b">BUILD  /  SHIP  /  LEARN</text>
+<text x="1340" y="400" text-anchor="end" class="m" font-size="9" letter-spacing="2.4" fill="#4d656b">ARTH / 2026</text>
 </svg>
