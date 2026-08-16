@@ -2,243 +2,218 @@
   <img src="./assets/arth-github-2026.svg" alt="ARTH — GitHub 2026" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/badge/GitHub-ArthOfficial-11191c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://arth-hub.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ArthHub-11191c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/ArthOfficial/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio%20Source-View-11191c?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source"></a>
-  <a href="mailto:purohitarthbkn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-11191c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%"><a href="https://github.com/ArthOfficial"><strong>GitHub</strong></a><br><sub>@ArthOfficial</sub></td>
+<td align="center" width="33%"><a href="https://arth-hub.vercel.app/"><strong>Portfolio</strong></a><br><sub>ArthHub</sub></td>
+<td align="center" width="33%"><a href="mailto:purohitarthbkn@gmail.com"><strong>Email</strong></a><br><sub>Contact me</sub></td>
+</tr>
+</table>
 
 <p align="center"><sub>Engineering College Bikaner (ECB) · India</sub></p>
 
 ---
 
-## About
+<h2>ABOUT</h2>
 
-I'm **Arth**, a full-stack developer and builder from India.
+<h3>Arth — Full-Stack Developer & Builder</h3>
 
-I started with Discord communities, Minecraft ecosystems and automation. That gradually turned into building full-stack applications, SaaS-style products, AI integrations and systems that connect the frontend, backend, data and deployment layers together.
+<p>
+I build web applications, automation systems and AI-powered software — with a focus on understanding the full system behind the interface.
+</p>
 
-I like understanding things end-to-end — then turning that understanding into something useful.
+<p>
+I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack development, SaaS products, cloud infrastructure and AI workflow engineering.
+</p>
 
-> **I don't wait until I'm ready. I learn by shipping.**
+<blockquote><strong>I don't wait until I'm ready. I learn by shipping.</strong></blockquote>
 
-Currently studying at **Engineering College Bikaner (ECB)** while continuing to build, experiment and strengthen my engineering fundamentals.
+<p>Currently studying at <strong>Engineering College Bikaner (ECB)</strong> while building and going deeper into software engineering, networking and intelligent systems.</p>
 
 ---
 
-## ⚡ Currently Building
+<h2>⚡ CURRENTLY BUILDING</h2>
 
-**Kryin Office** — an AI workspace focused on practical model integrations, workflow orchestration and useful automation.
-
-`LangGraph` · `AI APIs` · `TypeScript` · `React` · `Supabase`
-
-**Status:** Private · Active development
-
----
-
-## 🧠 Knowledge & Tools
-
-I prefer showing the technologies I actually work with as direct, clickable references rather than a wall of generic skill text.
-
-### Languages & Core
-
-<p>
-  <a href="https://html.spec.whatwg.org/"><img height="42" src="https://cdn.simpleicons.org/html5" alt="HTML"></a>&nbsp;
-  <a href="https://www.w3.org/Style/CSS/"><img height="42" src="https://cdn.simpleicons.org/css3" alt="CSS"></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"></a>&nbsp;
-  <a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;
-  <a href="https://isocpp.org/"><img height="42" src="https://cdn.simpleicons.org/cplusplus" alt="C++"></a>&nbsp;
-  <a href="https://www.php.net/"><img height="42" src="https://cdn.simpleicons.org/php" alt="PHP"></a>
-</p>
-
-### Frontend
-
-<p>
-  <a href="https://react.dev/"><img height="42" src="https://cdn.simpleicons.org/react" alt="React"></a>&nbsp;
-  <a href="https://nextjs.org/"><img height="42" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js"></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img height="42" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"></a>&nbsp;
-  <a href="https://vuejs.org/"><img height="42" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"></a>
-</p>
-
-### Backend, Data & Cloud
-
-<p>
-  <a href="https://nodejs.org/"><img height="42" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js"></a>&nbsp;
-  <a href="https://laravel.com/"><img height="42" src="https://cdn.simpleicons.org/laravel" alt="Laravel"></a>&nbsp;
-  <a href="https://www.mysql.com/"><img height="42" src="https://cdn.simpleicons.org/mysql" alt="MySQL"></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img height="42" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"></a>&nbsp;
-  <a href="https://supabase.com/"><img height="42" src="https://cdn.simpleicons.org/supabase" alt="Supabase"></a>&nbsp;
-  <a href="https://firebase.google.com/"><img height="42" src="https://cdn.simpleicons.org/firebase" alt="Firebase"></a>&nbsp;
-  <a href="https://vercel.com/"><img height="42" src="https://cdn.simpleicons.org/vercel" alt="Vercel"></a>
-</p>
-
-### Tools & Systems
-
-<p>
-  <a href="https://git-scm.com/"><img height="42" src="https://cdn.simpleicons.org/git" alt="Git"></a>&nbsp;
-  <a href="https://github.com/"><img height="42" src="https://cdn.simpleicons.org/github" alt="GitHub"></a>&nbsp;
-  <a href="https://www.linux.org/"><img height="42" src="https://cdn.simpleicons.org/linux" alt="Linux"></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img height="42" src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code"></a>
-</p>
-
-`REST APIs` · `Authentication` · `API Integration` · `Discord.js` · `Automation` · `Networking`
-
-### AI / ML & Workflow Engineering
-
-<p>
-  <a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;
-  <a href="https://www.langchain.com/langgraph"><img height="42" src="https://cdn.simpleicons.org/langgraph" alt="LangGraph"></a>&nbsp;
-  <a href="https://openai.com/"><img height="42" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></a>&nbsp;
-  <a href="https://ai.google.dev/"><img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini"></a>
-</p>
-
-`LangGraph` · `LLM APIs` · `AI/ML` · `AI workflow integration` · `Agent workflows` · `Prompt engineering` · `Python automation`
-
-> **Currently going deeper into:** C++ · Python · Networking · AI/ML · LangGraph
+<table width="100%">
+<tr>
+<td width="70%">
+<h3>Kryin Office</h3>
+<p>An AI workspace focused on practical model integrations, workflow orchestration and automation.</p>
+<p><code>LangGraph</code> <code>AI APIs</code> <code>TypeScript</code> <code>React</code> <code>Supabase</code></p>
+</td>
+<td align="center" width="30%"><strong>ACTIVE</strong><br><sub>Private development</sub></td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Selected Projects
+<h2>🧠 KNOWLEDGE & TOOLS</h2>
+
+<p><strong>Languages & Core</strong></p>
+<p>
+<a href="https://html.spec.whatwg.org/"><img height="42" src="https://cdn.simpleicons.org/html5" alt="HTML5"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3.org/Style/CSS/"><img height="42" src="https://cdn.simpleicons.org/css3" alt="CSS3"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/"><img height="42" src="https://cdn.simpleicons.org/cplusplus" alt="C++"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.php.net/"><img height="42" src="https://cdn.simpleicons.org/php" alt="PHP"></a>
+</p>
+
+<p><strong>Frontend</strong></p>
+<p>
+<a href="https://react.dev/"><img height="42" src="https://cdn.simpleicons.org/react" alt="React"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/"><img height="42" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img height="42" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vuejs.org/"><img height="42" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"></a>
+</p>
+
+<p><strong>Backend · Data · Cloud</strong></p>
+<p>
+<a href="https://nodejs.org/"><img height="42" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://laravel.com/"><img height="42" src="https://cdn.simpleicons.org/laravel" alt="Laravel"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img height="42" src="https://cdn.simpleicons.org/mysql" alt="MySQL"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/"><img height="42" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://supabase.com/"><img height="42" src="https://cdn.simpleicons.org/supabase" alt="Supabase"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://firebase.google.com/"><img height="42" src="https://cdn.simpleicons.org/firebase" alt="Firebase"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com/"><img height="42" src="https://cdn.simpleicons.org/vercel" alt="Vercel"></a>
+</p>
+
+<p><strong>Systems · Tools · Infrastructure</strong></p>
+<p>
+<a href="https://git-scm.com/"><img height="42" src="https://cdn.simpleicons.org/git" alt="Git"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/"><img height="42" src="https://cdn.simpleicons.org/github" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img height="42" src="https://cdn.simpleicons.org/linux" alt="Linux"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img height="42" src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code"></a>
+</p>
+<p><code>REST APIs</code> <code>Authentication</code> <code>API Integration</code> <code>Discord.js</code> <code>Automation</code> <code>Networking</code></p>
+
+<p><strong>AI / ML · Workflow Engineering</strong></p>
+<p>
+<a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.langchain.com/langgraph"><img height="42" src="https://cdn.simpleicons.org/langgraph" alt="LangGraph"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/"><img height="42" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://ai.google.dev/"><img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini"></a>
+</p>
+<p><code>LangGraph</code> <code>LLM APIs</code> <code>AI/ML</code> <code>AI workflows</code> <code>Agent workflows</code> <code>Prompt engineering</code> <code>Python automation</code></p>
+
+---
+
+<h2>🚀 SELECTED PROJECTS</h2>
 
 <details>
-<summary><b>01 · Kryin Office</b> — AI Workspace</summary>
-
+<summary><strong>01 · Kryin Office</strong> — AI Workspace</summary>
 <br>
-
 <p align="center"><img src="./assets/projects/kryin-office.svg" alt="Kryin Office project banner" width="100%"></p>
-
-An AI workspace focused on connecting models, workflows and automation into one practical environment.
-
-**Stack / concepts**
-
-`LangGraph` `AI APIs` `TypeScript` `React` `Supabase` `AI workflows`
-
-**Status:** Private · Active development
-
+<p>An AI workspace focused on connecting models, workflows and automation into one practical environment.</p>
+<p><code>LangGraph</code> <code>AI APIs</code> <code>TypeScript</code> <code>React</code> <code>Supabase</code></p>
+<p><strong>Private · Active development</strong></p>
 </details>
-
-<details>
-<summary><b>02 · Edunex</b> — Education Infrastructure</summary>
 
 <br>
 
+<details>
+<summary><strong>02 · Edunex</strong> — Education Infrastructure</summary>
+<br>
 <p align="center"><img src="./assets/projects/edunex.svg" alt="Edunex project banner" width="100%"></p>
-
-A school-focused platform built around administration, academic workflows, attendance and everyday management.
-
-**Stack / concepts**
-
-`Full-stack` `Education workflows` `Attendance` `Administration`
-
-<p><a href="https://github.com/ArthOfficial/edunex"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EDUNEX-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Edunex repository"></a></p>
-
+<p>A school-focused platform for administration, academic workflows, attendance and everyday management.</p>
+<p><code>Full-stack</code> <code>Education</code> <code>Attendance</code> <code>Administration</code></p>
+<p><a href="https://github.com/ArthOfficial/edunex"><strong>→ View Repository</strong></a></p>
 </details>
-
-<details>
-<summary><b>03 · Parental Monitoring</b> — Digital Safety</summary>
 
 <br>
 
+<details>
+<summary><strong>03 · Parental Monitoring</strong> — Digital Safety</summary>
+<br>
 <p align="center"><img src="./assets/projects/parental-monitoring.svg" alt="Parental Monitoring project banner" width="100%"></p>
-
-A monitoring and device-management project exploring activity visibility, controls, alerts, startup behavior and remote connectivity.
-
-**Stack / concepts**
-
-`JavaScript` `Firebase` `Node.js` `VBS` `Tunneling` `Automation`
-
-<p><a href="https://github.com/ArthOfficial/Parental-Monitoring"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-PARENTAL%20MONITORING-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Parental Monitoring repository"></a></p>
-
+<p>A device-management project exploring activity visibility, controls, alerts, startup behavior and remote connectivity.</p>
+<p><code>JavaScript</code> <code>Firebase</code> <code>Node.js</code> <code>VBS</code> <code>Tunneling</code> <code>Automation</code></p>
+<p><a href="https://github.com/ArthOfficial/Parental-Monitoring"><strong>→ View Repository</strong></a></p>
 </details>
-
-<details>
-<summary><b>04 · Advanced Attendance System</b> — Campus Management</summary>
 
 <br>
 
+<details>
+<summary><strong>04 · Advanced Attendance System</strong> — Campus Management</summary>
+<br>
 <p align="center"><img src="./assets/projects/advanced-attendance.svg" alt="Advanced Attendance System project banner" width="100%"></p>
-
-An attendance and campus-management system focused on practical administration, workflows and reporting.
-
-**Focus**
-
-`Attendance` `Management` `Automation` `Reporting` `Full-stack`
-
-<p><a href="https://github.com/ArthOfficial/Advanced-Attendance-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-ATTENDANCE%20SYSTEM-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Advanced Attendance repository"></a></p>
-
+<p>An attendance and campus-management system focused on practical administration, workflows and reporting.</p>
+<p><code>Attendance</code> <code>Management</code> <code>Automation</code> <code>Reporting</code></p>
+<p><a href="https://github.com/ArthOfficial/Advanced-Attendance-System"><strong>→ View Repository</strong></a></p>
 </details>
-
-<details>
-<summary><b>05 · Kryin Ephor</b> — Product / SaaS Work</summary>
 
 <br>
 
-A KryinLabs project from my broader work around product development and SaaS systems.
-
-<p><a href="https://github.com/ArthOfficial/KryinEphor"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-KRYIN%20EPHOR-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Kryin Ephor repository"></a></p>
-
-</details>
-
 <details>
-<summary><b>06 · Minecraft & Discord Ecosystems</b> — Communities / Automation</summary>
+<summary><strong>05 · Kryin Ephor</strong> — Product / SaaS Work</summary>
+<br>
+<p>A KryinLabs project around product development, SaaS systems and digital workflows.</p>
+<p><a href="https://github.com/ArthOfficial/KryinEphor"><strong>→ View Repository</strong></a></p>
+</details>
 
 <br>
 
-One of the foundations of my development journey: Discord bots, community automation, Minecraft server ecosystems, web panels, role systems and integrations.
-
-`Discord.js` `Node.js` `MongoDB` `APIs` `Automation`
-
+<details>
+<summary><strong>06 · Minecraft & Discord Ecosystems</strong> — Communities / Automation</summary>
+<br>
+<p>Discord bots, community automation, Minecraft server ecosystems, web panels, role systems and integrations.</p>
+<p><code>Discord.js</code> <code>Node.js</code> <code>MongoDB</code> <code>APIs</code> <code>Automation</code></p>
 </details>
 
 ---
 
-## 🤖 How I Work With AI
+<h2>🤖 HOW I WORK WITH AI</h2>
 
-AI is part of my engineering toolkit — not a substitute for understanding what I'm building.
+<p>AI is part of my engineering toolkit — not a substitute for understanding what I'm building.</p>
 
-I use it for:
+<table width="100%">
+<tr><td width="50%">Explore unfamiliar APIs & libraries</td><td width="50%">Test architecture & implementation ideas</td></tr>
+<tr><td>Debug & review code</td><td>Build AI-powered product features</td></tr>
+<tr><td>Connect LLMs to real workflows</td><td>Design graph workflows with LangGraph</td></tr>
+<tr><td>Automate repetitive work</td><td>Validate and maintain the final implementation</td></tr>
+</table>
 
-- exploring unfamiliar libraries, APIs and documentation
-- testing architecture and implementation approaches
-- debugging and reviewing code
-- building AI-powered product features
-- connecting LLMs to real application workflows
-- designing graph-based workflows with **LangGraph**
-- automating repetitive development tasks
-- rapidly testing ideas before validating the actual implementation
-
-The goal is simple: **understand it, verify it, modify it and be able to maintain it.**
+<blockquote><strong>Understand it. Verify it. Modify it. Maintain it.</strong></blockquote>
 
 ---
 
-## 📊 GitHub Activity
+<h2>🏅 CERTIFICATES & CREDENTIALS</h2>
 
-<p align="center">
-  <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/github/followers/ArthOfficial?style=for-the-badge&label=FOLLOWERS&labelColor=161b22&color=22d3ee&logo=github&logoColor=white" alt="GitHub followers"></a>
-  <a href="https://github.com/ArthOfficial?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-VIEW-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
-  <a href="https://github.com/ArthOfficial?tab=stars"><img src="https://img.shields.io/github/stars/ArthOfficial?style=for-the-badge&label=STARS&labelColor=161b22&color=22d3ee&logo=github&logoColor=white" alt="GitHub stars"></a>
-</p>
+<p>I want this section to contain only <strong>real, verifiable certificates</strong> — with the issuer, credential name and verification link.</p>
 
-<p align="center"><sub>GitHub activity is kept lightweight so the profile stays reliable and fast to render.</sub></p>
+<p><em>I couldn't find your certificate files or certificate links in the connected GitHub repositories, so I haven't invented any credentials here.</em></p>
 
 ---
 
-## 🧭 What I'm Exploring
+<h2>📊 GITHUB</h2>
 
-`C++` · `Python` · `Networking` · `AI/ML` · `LangGraph` · `AI agents` · `Systems` · `Cloud`
-
-I'm especially interested in the layer where **software engineering meets intelligent systems** — applications where AI is part of the workflow rather than just a feature pasted onto the interface.
+<table width="100%">
+<tr>
+<td align="center" width="33%"><h3>Repositories</h3><a href="https://github.com/ArthOfficial?tab=repositories">Explore →</a></td>
+<td align="center" width="33%"><h3>Activity</h3><a href="https://github.com/ArthOfficial">View Profile →</a></td>
+<td align="center" width="33%"><h3>Stars</h3><a href="https://github.com/ArthOfficial?tab=stars">Explore →</a></td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Find Me
+<h2>🧭 CURRENTLY EXPLORING</h2>
 
-<p align="center">
-  <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/badge/GitHub-ArthOfficial-11191c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://arth-hub.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ArthHub-11191c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:purohitarthbkn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-11191c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<p><code>C++</code> <code>Python</code> <code>Networking</code> <code>AI/ML</code> <code>LangGraph</code> <code>AI agents</code> <code>Systems</code> <code>Cloud</code></p>
+
+<p>I'm especially interested in the layer where <strong>software engineering meets intelligent systems</strong> — applications where AI is part of the workflow rather than simply another feature in the interface.</p>
+
+---
+
+<h2>🌐 FIND ME</h2>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%"><h3><a href="https://github.com/ArthOfficial">GitHub</a></h3><sub>@ArthOfficial</sub></td>
+<td align="center" width="33%"><h3><a href="https://arth-hub.vercel.app/">Portfolio</a></h3><sub>ArthHub</sub></td>
+<td align="center" width="33%"><h3><a href="mailto:purohitarthbkn@gmail.com">Email</a></h3><sub>Let's connect</sub></td>
+</tr>
+</table>
 
 <p align="center"><sub>Built, shipped and continuously improved from India.</sub></p>
