@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
-<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ba3aa" stroke-opacity=".045"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop stop-color="#071014"/><stop offset=".62" stop-color="#0b1417"/><stop offset="1" stop-color="#071014"/></linearGradient><style>.a{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,SFMono-Regular,monospace}@keyframes pulse{50%{opacity:.35}}.p{animation:pulse 2s steps(2,end) infinite}</style></defs>
-<rect width="1200" height="250" rx="14" fill="url(#fade)"/><rect width="1200" height="250" rx="14" fill="url(#grid)"/>
-<path d="M28 48V28h20M1152 28h20v20M28 202v20h20M1152 222h20v-20" fill="none" stroke="#22d3ee" stroke-width="1.4"/>
-<text x="48" y="47" class="m" font-size="9" letter-spacing="3.2" fill="#5ddbe8">ARTH / GITHUB PROFILE</text>
-<text x="48" y="144" class="a" font-size="86" font-weight="800" letter-spacing="-6" fill="#f3f6f7">ARTH<tspan fill="#22d3ee">.</tspan></text>
-<text x="51" y="176" class="m" font-size="8.5" letter-spacing="2.1" fill="#718a90">FULL-STACK DEVELOPMENT  /  AI INTEGRATION  /  SYSTEMS</text>
-<line x1="610" y1="48" x2="610" y2="196" stroke="#1b343a"/>
-<text x="645" y="68" class="m" font-size="8" letter-spacing="2" fill="#4f6a71">CURRENTLY BUILDING</text>
-<text x="645" y="101" class="a" font-size="25" font-weight="700" fill="#edf3f4">Kryin Office</text>
-<text x="645" y="123" class="m" font-size="8.5" fill="#789198">LANGGRAPH · AI WORKFLOWS · APIS</text>
-<text x="645" y="153" class="m" font-size="8" letter-spacing="1.6" fill="#4f6a71">STUDYING AT</text>
-<text x="645" y="177" class="a" font-size="15" font-weight="600" fill="#c9d4d7">Engineering College Bikaner</text>
-<circle class="p" cx="1102" cy="68" r="4" fill="#34d399"/><text x="1116" y="71" class="m" font-size="8" letter-spacing="1.5" fill="#62e7b2">ACTIVE</text>
-<text x="1152" y="218" text-anchor="end" class="m" font-size="7.5" letter-spacing="1.4" fill="#4b646b">BUILD / SHIP / LEARN — 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070c0f"/><stop offset=".55" stop-color="#0c1518"/><stop offset="1" stop-color="#071013"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7b9298" stroke-opacity=".045"/></pattern>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#173b43" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#173b43" stop-opacity="0"/></linearGradient>
+<style>.a{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,SFMono-Regular,monospace}@keyframes pulse{50%{opacity:.28}}.p{animation:pulse 2.2s steps(2,end) infinite}</style>
+</defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/><rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+<path d="M28 52V28h24M1148 28h24v24M28 248v24h24M1148 272h24v-24" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+<text x="48" y="48" class="m" font-size="11" letter-spacing="3.5" fill="#67e8f9">ARTH / GITHUB / 2026</text>
+<text x="48" y="165" class="a" font-size="104" font-weight="850" letter-spacing="-5" fill="#f3f7f8">ARTH<tspan fill="#22d3ee">.</tspan></text>
+<text x="52" y="201" class="m" font-size="12" letter-spacing="2.5" fill="#91a9ae">FULL-STACK DEVELOPER  ·  AI INTEGRATION  ·  SYSTEMS</text>
+<line x1="52" y1="228" x2="548" y2="228" stroke="url(#line)"/>
+<text x="52" y="252" class="m" font-size="10" letter-spacing="1.6" fill="#607a80">BUILDING PRODUCTS THAT CONNECT SOFTWARE, AI &amp; AUTOMATION</text>
+<line x1="650" y1="55" x2="650" y2="252" stroke="#1c343a"/>
+<text x="688" y="76" class="m" font-size="10" letter-spacing="2.5" fill="#58747b">CURRENT FOCUS</text>
+<text x="688" y="120" class="a" font-size="32" font-weight="750" fill="#eef4f5">Kryin Office</text>
+<text x="688" y="151" class="m" font-size="11" letter-spacing="1.2" fill="#89a2a8">LANGGRAPH  ·  AI WORKFLOWS  ·  APIS</text>
+<text x="688" y="193" class="m" font-size="10" letter-spacing="2.2" fill="#58747b">EDUCATION</text>
+<text x="688" y="222" class="a" font-size="21" font-weight="600" fill="#d4dee0">Engineering College Bikaner</text>
+<circle class="p" cx="1120" cy="72" r="4.5" fill="#34d399"/><text x="1134" y="76" class="m" font-size="10" letter-spacing="1.8" fill="#6ee7b7">ACTIVE</text>
+<text x="1152" y="266" text-anchor="end" class="m" font-size="9" letter-spacing="1.8" fill="#506a71">BUILD / SHIP / LEARN</text>
 </svg>
