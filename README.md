@@ -3,16 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+KryinLabs;Building+AI-Powered+Workspaces;Full-Stack+Developer+%26+Product+Builder;AI+Workflows+%C2%B7+Automation+%C2%B7+Systems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Workspaces;Full-Stack+Developer+%26+Product+Builder;AI+Workflows+%C2%B7+Automation+%C2%B7+Systems" alt="Typing SVG">
 </p>
 
-## About
+---
+
+## 🚀 About Me
 
 I'm **Arth (Narco)** — a developer and product builder from India, currently studying at **Engineering College Bikaner (ECB)**.
 
-I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack applications, SaaS products, cloud infrastructure and AI-powered workflows. I enjoy understanding how a product works end-to-end — from the interface and APIs to data, deployment and automation.
+I started by experimenting with Discord communities, Minecraft ecosystems and automation, then moved into full-stack applications, SaaS products, cloud infrastructure and AI-powered workflows. I enjoy understanding how products work end-to-end — from interfaces and APIs to data, deployment and automation.
 
-Through **KryinLabs**, I'm currently building software around AI and practical developer workflows. My main focus right now is **Kryin Office**, where I'm working with model integrations, LangGraph and AI-powered automation.
+Through **KryinLabs**, I'm building software around AI and practical developer workflows. My current focus is **Kryin Office**, where I'm working with model integrations, LangGraph and AI-powered automation.
 
 > **I don't wait until I'm ready. I learn by shipping.**
 
@@ -64,7 +66,6 @@ Through **KryinLabs**, I'm currently building software around AI and practical d
 ### AI · Automation · Workflow Engineering
 
 <p>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-11191C?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"></a>
 <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-11191C?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangGraph"></a>
 <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-11191C?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI"></a>
 <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini-11191C?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="Google Gemini"></a>
