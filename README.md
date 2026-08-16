@@ -17,13 +17,13 @@
 
 I'm **Arth**, a full-stack developer and builder from India.
 
-I started by experimenting with Discord communities, Minecraft ecosystems and automation. That gradually turned into building full-stack applications, SaaS-style products, AI integrations and systems that connect the frontend, backend, data and deployment layers together.
+I started with Discord communities, Minecraft ecosystems and automation. That gradually turned into building full-stack applications, SaaS-style products, AI integrations and systems that connect the frontend, backend, data and deployment layers together.
 
-I enjoy figuring out how things work end-to-end — then turning that understanding into something useful.
+I like understanding things end-to-end — then turning that understanding into something useful.
 
 > **I don't wait until I'm ready. I learn by shipping.**
 
-Currently studying at **Engineering College Bikaner (ECB)** while continuing to build, experiment and sharpen my engineering fundamentals.
+Currently studying at **Engineering College Bikaner (ECB)** while continuing to build, experiment and strengthen my engineering fundamentals.
 
 ---
 
@@ -67,11 +67,9 @@ Currently studying at **Engineering College Bikaner (ECB)** while continuing to 
 
 <p align="center"><img src="./assets/projects/kryin-office.svg" alt="Kryin Office" width="100%"></p>
 
-**Kryin Office** — an AI workspace focused on bringing models, AI workflows and useful automation into one practical developer/productivity environment.
+**Kryin Office** is an AI workspace I'm building around practical model integrations, workflow orchestration and useful automation.
 
-Working with **LangGraph, AI APIs, TypeScript, React and Supabase**.
-
-The repository is currently private while development continues.
+I'm currently working with **LangGraph, AI APIs, TypeScript, React and Supabase**. The project is private while development continues.
 
 ---
 
@@ -84,7 +82,7 @@ The repository is currently private while development continues.
 
 <p align="center"><img src="./assets/projects/kryin-office.svg" alt="Kryin Office project banner" width="100%"></p>
 
-A lightweight AI workspace exploring practical model integrations, workflow orchestration and agent-style automation.
+An AI workspace focused on connecting models, workflows and automation into one practical environment.
 
 **Stack / concepts**
 
@@ -107,9 +105,7 @@ A school-focused platform built around administration, academic workflows, atten
 
 `Full-stack` `Education workflows` `Attendance` `Administration`
 
-<p>
-  <a href="https://github.com/ArthOfficial/edunex"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EDUNEX-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Edunex repository"></a>
-</p>
+<p><a href="https://github.com/ArthOfficial/edunex"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EDUNEX-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Edunex repository"></a></p>
 
 </details>
 
@@ -126,9 +122,7 @@ A monitoring and device-management project exploring activity visibility, contro
 
 `JavaScript` `Firebase` `Node.js` `VBS` `Tunneling` `Automation`
 
-<p>
-  <a href="https://github.com/ArthOfficial/Parental-Monitoring"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-PARENTAL%20MONITORING-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Parental Monitoring repository"></a>
-</p>
+<p><a href="https://github.com/ArthOfficial/Parental-Monitoring"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-PARENTAL%20MONITORING-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Parental Monitoring repository"></a></p>
 
 </details>
 
@@ -139,15 +133,13 @@ A monitoring and device-management project exploring activity visibility, contro
 
 <p align="center"><img src="./assets/projects/advanced-attendance.svg" alt="Advanced Attendance System project banner" width="100%"></p>
 
-An advanced attendance and campus-management project focused on practical administration, attendance workflows and reporting.
+An attendance and campus-management system focused on practical administration, workflows and reporting.
 
 **Focus**
 
 `Attendance` `Management` `Automation` `Reporting` `Full-stack`
 
-<p>
-  <a href="https://github.com/ArthOfficial/Advanced-Attendance-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-ATTENDANCE%20SYSTEM-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Advanced Attendance repository"></a>
-</p>
+<p><a href="https://github.com/ArthOfficial/Advanced-Attendance-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-ATTENDANCE%20SYSTEM-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Advanced Attendance repository"></a></p>
 
 </details>
 
@@ -156,11 +148,9 @@ An advanced attendance and campus-management project focused on practical admini
 
 <br>
 
-A KryinLabs project and part of my broader work around building software products and SaaS systems.
+A KryinLabs project from my broader work around product development and SaaS systems.
 
-<p>
-  <a href="https://github.com/ArthOfficial/KryinEphor"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-KRYIN%20EPHOR-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Kryin Ephor repository"></a>
-</p>
+<p><a href="https://github.com/ArthOfficial/KryinEphor"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-KRYIN%20EPHOR-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Kryin Ephor repository"></a></p>
 
 </details>
 
@@ -181,10 +171,10 @@ One of the foundations of my development journey: Discord bots, community automa
 
 AI is part of my engineering toolkit — not a substitute for understanding what I'm building.
 
-I use it for things such as:
+I use it for:
 
 - exploring unfamiliar libraries, APIs and documentation
-- testing architecture ideas and implementation approaches
+- testing architecture and implementation approaches
 - debugging and reviewing code
 - building AI-powered product features
 - connecting LLMs to real application workflows
@@ -199,9 +189,16 @@ The goal is simple: **understand it, verify it, modify it and be able to maintai
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthOfficial&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=8fa7ad&icon_color=22d3ee" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthOfficial&hide_border=true&background=00000000&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8fa7ad&dates=607b82&sideNums=8fa7ad&currStreakNum=8fa7ad" height="165" alt="GitHub streak">
+  <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/github/followers/ArthOfficial?style=for-the-badge&label=FOLLOWERS&labelColor=161b22&color=22d3ee&logo=github&logoColor=white" alt="GitHub followers"></a>
+  <a href="https://github.com/ArthOfficial?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-VIEW-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/ArthOfficial?tab=stars"><img src="https://img.shields.io/github/stars/ArthOfficial?style=for-the-badge&label=STARS&labelColor=161b22&color=22d3ee&logo=github&logoColor=white" alt="GitHub stars"></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthOfficial&hide_border=true&background=00000000&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8fa7ad&dates=607b82&sideNums=8fa7ad&currStreakNum=8fa7ad" width="720" alt="GitHub contribution streak">
+</p>
+
+<p align="center"><sub>Live GitHub metrics are intentionally kept lightweight here instead of using multiple external statistic cards that can fail to render.</sub></p>
 
 ---
 
@@ -209,7 +206,7 @@ The goal is simple: **understand it, verify it, modify it and be able to maintai
 
 `C++` · `Python` · `Networking` · `AI/ML` · `LangGraph` · `AI agents` · `Systems` · `Cloud`
 
-I'm especially interested in the layer where **software engineering meets intelligent systems** — applications where AI is actually part of the workflow rather than just a feature pasted onto the interface.
+I'm especially interested in the layer where **software engineering meets intelligent systems** — applications where AI is part of the workflow rather than just a feature pasted onto the interface.
 
 ---
 
@@ -218,7 +215,7 @@ I'm especially interested in the layer where **software engineering meets intell
 <p align="center">
   <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/badge/GitHub-ArthOfficial-11191c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://arth-hub.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ArthHub-11191c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:purohitarthbkn@gmail.com"><img src="https://img.shields.io/badge/Email-purohitarthbkn%40gmail.com-11191c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:purohitarthbkn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-11191c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center"><sub>Built, shipped and continuously improved from India.</sub></p>
