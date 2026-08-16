@@ -5,41 +5,38 @@
   <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#c5d1d4" stroke-opacity=".028"/></pattern>
   <style>
     .s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
-    .draw{animation:draw 8s ease-in-out infinite}.blink{animation:blink 4s ease-in-out infinite}
+    .draw{animation:draw 8s ease-in-out infinite}.blink{animation:blink 4s ease-in-out infinite}.hero-loop{animation:heroLoop 12s ease-in-out infinite;transform-origin:60px 220px}
     @keyframes draw{0%,18%{opacity:0;transform:scaleX(.35);transform-origin:left}30%,78%{opacity:1;transform:scaleX(1)}90%,100%{opacity:0;transform:scaleX(.35);transform-origin:left}}
     @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes heroLoop{0%,8%{opacity:0;transform:translateY(7px)}18%,72%{opacity:1;transform:translateY(0)}82%,100%{opacity:0;transform:translateY(-4px)}}
   </style>
 </defs>
 
-<!-- quiet, editorial canvas -->
 <rect width="1400" height="420" rx="22" fill="url(#bg)"/>
 <rect width="1400" height="420" rx="22" fill="url(#grid)"/>
 
-<!-- refined outer frame: visible at the true edge -->
 <rect x="2" y="2" width="1396" height="416" rx="21" fill="none" stroke="#405158" stroke-width="2"/>
 <rect x="8" y="8" width="1384" height="404" rx="17" fill="none" stroke="#1c2a2e" stroke-width="1"/>
 
-<!-- subtle corner registration marks -->
 <path d="M24 52V24H52 M1348 24H1376V52 M24 368V396H52 M1348 396H1376V368" fill="none" stroke="#21c8d6" stroke-opacity=".72" stroke-width="1.5"/>
 
-<!-- header -->
 <text x="60" y="58" class="m" font-size="12" letter-spacing="4" fill="#71878c">ARTH OFFICIAL</text>
 <text x="60" y="82" class="m" font-size="10" letter-spacing="2.5" fill="#4f686e">GITHUB PROFILE / 2026</text>
 <text x="1340" y="58" text-anchor="end" class="m" font-size="10" letter-spacing="3" fill="#4f686e">INDIA</text>
 
-<!-- primary identity -->
-<text x="60" y="220" class="s" font-size="158" font-weight="800" letter-spacing="-10" fill="#f1f4f4">ARTH</text>
-<circle cx="392" cy="208" r="5" fill="#21c8d6" class="blink"/>
-<text x="62" y="260" class="m" font-size="13" letter-spacing="3.5" fill="#9aafb3">FULL-STACK DEVELOPER</text>
-<text x="62" y="288" class="m" font-size="10" letter-spacing="2.4" fill="#60787d">AI INTEGRATION  /  AUTOMATION  /  SYSTEMS</text>
-<rect x="62" y="314" width="460" height="1" fill="#263b40"/>
-<rect x="62" y="314" width="190" height="1" fill="url(#accent)" class="draw"/>
-<text x="62" y="344" class="m" font-size="10" letter-spacing="2" fill="#526a70">BUILDING SOFTWARE THROUGH KRYINLABS</text>
+<!-- primary identity: subtle recurring reveal -->
+<g class="hero-loop">
+  <text x="60" y="220" class="s" font-size="158" font-weight="800" letter-spacing="-10" fill="#f1f4f4">ARTH</text>
+  <circle cx="392" cy="208" r="5" fill="#21c8d6" class="blink"/>
+  <text x="62" y="260" class="m" font-size="13" letter-spacing="3.5" fill="#9aafb3">FULL-STACK DEVELOPER</text>
+  <text x="62" y="288" class="m" font-size="10" letter-spacing="2.4" fill="#60787d">AI INTEGRATION  /  AUTOMATION  /  SYSTEMS</text>
+  <rect x="62" y="314" width="460" height="1" fill="#263b40"/>
+  <rect x="62" y="314" width="190" height="1" fill="url(#accent)" class="draw"/>
+  <text x="62" y="344" class="m" font-size="10" letter-spacing="2" fill="#526a70">BUILDING SOFTWARE THROUGH KRYINLABS</text>
+</g>
 
-<!-- deliberate vertical divider -->
 <line x1="760" y1="58" x2="760" y2="358" stroke="#26383d"/>
 
-<!-- right information block -->
 <text x="812" y="82" class="m" font-size="10" letter-spacing="3" fill="#627b80">CURRENT FOCUS</text>
 <text x="812" y="132" class="s" font-size="36" font-weight="700" fill="#edf2f2">Kryin Office</text>
 <text x="812" y="158" class="m" font-size="10" letter-spacing="1.8" fill="#82999e">LANGGRAPH  /  AI WORKFLOWS  /  APIS</text>
@@ -49,13 +46,11 @@
 <text x="812" y="251" class="s" font-size="22" font-weight="600" fill="#dce4e6">Engineering College Bikaner</text>
 <text x="812" y="276" class="m" font-size="10" letter-spacing="2" fill="#627b80">ECB  /  INDIA</text>
 
-<!-- restrained status animation -->
 <g class="blink">
   <circle cx="1284" cy="82" r="4" fill="#35d29a"/>
   <text x="1300" y="86" class="m" font-size="9" letter-spacing="2.2" fill="#69dcae">ACTIVE</text>
 </g>
 
-<!-- footer -->
 <line x1="60" y1="382" x2="1340" y2="382" stroke="#26383d"/>
 <text x="60" y="400" class="m" font-size="9" letter-spacing="2.4" fill="#4d656b">BUILD  /  SHIP  /  LEARN</text>
 <text x="1340" y="400" text-anchor="end" class="m" font-size="9" letter-spacing="2.4" fill="#4d656b">ARTH / 2026</text>
