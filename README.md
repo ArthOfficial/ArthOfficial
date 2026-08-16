@@ -155,7 +155,7 @@ Discord bots, community automation, Minecraft server ecosystems, web panels, rol
 <br>
 
 <p align="center">
-  <img src="./assets/certificates/amd-developer-hackathon-act-ii.svg" alt="AMD Developer Hackathon ACT II certificate showcase" width="100%">
+  <img src="./assets/certificates/AMD%20Developer%20Hackathon_%20ACT%20II-certificate_page-0001.jpg" alt="AMD Developer Hackathon ACT II certificate" width="100%">
 </p>
 
 **Issuer:** LabLab · NativelyAI  
