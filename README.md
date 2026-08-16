@@ -11,7 +11,7 @@
 
 <p align="center"><sub>Engineering College Bikaner (ECB) · India</sub></p>
 
-<p align="center"><img src="./assets/current-status.svg" alt="Current development status" width="100%"></p>
+---
 
 ## About
 
@@ -27,49 +27,76 @@ Currently studying at **Engineering College Bikaner (ECB)** while continuing to 
 
 ---
 
-## 🧠 Knowledge
+## ⚡ Currently Building
+
+**Kryin Office** — an AI workspace focused on practical model integrations, workflow orchestration and useful automation.
+
+`LangGraph` · `AI APIs` · `TypeScript` · `React` · `Supabase`
+
+**Status:** Private · Active development
+
+---
+
+## 🧠 Knowledge & Tools
+
+I prefer showing the technologies I actually work with as direct, clickable references rather than a wall of generic skill text.
 
 ### Languages & Core
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,php" alt="HTML CSS JavaScript TypeScript Python C++ PHP">
+  <a href="https://html.spec.whatwg.org/"><img height="42" src="https://cdn.simpleicons.org/html5" alt="HTML"></a>&nbsp;
+  <a href="https://www.w3.org/Style/CSS/"><img height="42" src="https://cdn.simpleicons.org/css3" alt="CSS"></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="42" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img height="42" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"></a>&nbsp;
+  <a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;
+  <a href="https://isocpp.org/"><img height="42" src="https://cdn.simpleicons.org/cplusplus" alt="C++"></a>&nbsp;
+  <a href="https://www.php.net/"><img height="42" src="https://cdn.simpleicons.org/php" alt="PHP"></a>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue" alt="React Next.js Tailwind CSS Vue">
+  <a href="https://react.dev/"><img height="42" src="https://cdn.simpleicons.org/react" alt="React"></a>&nbsp;
+  <a href="https://nextjs.org/"><img height="42" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js"></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img height="42" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"></a>&nbsp;
+  <a href="https://vuejs.org/"><img height="42" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"></a>
 </p>
 
 ### Backend, Data & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,supabase,firebase,vercel" alt="Node.js Laravel MySQL MongoDB Supabase Firebase Vercel">
+  <a href="https://nodejs.org/"><img height="42" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js"></a>&nbsp;
+  <a href="https://laravel.com/"><img height="42" src="https://cdn.simpleicons.org/laravel" alt="Laravel"></a>&nbsp;
+  <a href="https://www.mysql.com/"><img height="42" src="https://cdn.simpleicons.org/mysql" alt="MySQL"></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img height="42" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"></a>&nbsp;
+  <a href="https://supabase.com/"><img height="42" src="https://cdn.simpleicons.org/supabase" alt="Supabase"></a>&nbsp;
+  <a href="https://firebase.google.com/"><img height="42" src="https://cdn.simpleicons.org/firebase" alt="Firebase"></a>&nbsp;
+  <a href="https://vercel.com/"><img height="42" src="https://cdn.simpleicons.org/vercel" alt="Vercel"></a>
 </p>
 
 ### Tools & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git GitHub Linux VS Code">
+  <a href="https://git-scm.com/"><img height="42" src="https://cdn.simpleicons.org/git" alt="Git"></a>&nbsp;
+  <a href="https://github.com/"><img height="42" src="https://cdn.simpleicons.org/github" alt="GitHub"></a>&nbsp;
+  <a href="https://www.linux.org/"><img height="42" src="https://cdn.simpleicons.org/linux" alt="Linux"></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img height="42" src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code"></a>
 </p>
 
 `REST APIs` · `Authentication` · `API Integration` · `Discord.js` · `Automation` · `Networking`
 
 ### AI / ML & Workflow Engineering
 
+<p>
+  <a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;
+  <a href="https://www.langchain.com/langgraph"><img height="42" src="https://cdn.simpleicons.org/langchain" alt="LangGraph / LangChain"></a>&nbsp;
+  <a href="https://openai.com/"><img height="42" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></a>&nbsp;
+  <a href="https://ai.google.dev/"><img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini"></a>
+</p>
+
 `LangGraph` · `LLM APIs` · `AI/ML` · `AI workflow integration` · `Agent workflows` · `Prompt engineering` · `Python automation`
 
 > **Currently going deeper into:** C++ · Python · Networking · AI/ML · LangGraph
-
----
-
-## ⚡ Currently Building
-
-<p align="center"><img src="./assets/projects/kryin-office.svg" alt="Kryin Office" width="100%"></p>
-
-**Kryin Office** is an AI workspace I'm building around practical model integrations, workflow orchestration and useful automation.
-
-I'm currently working with **LangGraph, AI APIs, TypeScript, React and Supabase**. The project is private while development continues.
 
 ---
 
@@ -194,11 +221,7 @@ The goal is simple: **understand it, verify it, modify it and be able to maintai
   <a href="https://github.com/ArthOfficial?tab=stars"><img src="https://img.shields.io/github/stars/ArthOfficial?style=for-the-badge&label=STARS&labelColor=161b22&color=22d3ee&logo=github&logoColor=white" alt="GitHub stars"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthOfficial&hide_border=true&background=00000000&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8fa7ad&dates=607b82&sideNums=8fa7ad&currStreakNum=8fa7ad" width="720" alt="GitHub contribution streak">
-</p>
-
-<p align="center"><sub>Live GitHub metrics are intentionally kept lightweight here instead of using multiple external statistic cards that can fail to render.</sub></p>
+<p align="center"><sub>GitHub activity is kept lightweight so the profile stays reliable and fast to render.</sub></p>
 
 ---
 
