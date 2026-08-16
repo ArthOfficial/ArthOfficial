@@ -3,76 +3,85 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+of+KryinLabs;Building+AI-Powered+Workspaces;Full-Stack+Developer+%26+Product+Builder;AI+Workflows+%C2%B7+Automation+%C2%B7+Systems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+KryinLabs;Building+AI-Powered+Workspaces;Full-Stack+Developer+%26+Product+Builder;AI+Workflows+%C2%B7+Automation+%C2%B7+Systems" alt="Typing SVG">
 </p>
 
 ## About
 
 I'm **Arth (Narco)** — a developer and product builder from India, currently studying at **Engineering College Bikaner (ECB)**.
 
-I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack applications, SaaS products, cloud infrastructure and AI-powered workflows. I enjoy understanding the complete system behind a product — not just the interface.
+I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack applications, SaaS products, cloud infrastructure and AI-powered workflows. I enjoy understanding how a product works end-to-end — from the interface and APIs to data, deployment and automation.
 
-Through **KryinLabs**, I'm building software around AI, automation and useful digital experiences. Right now, my main focus is **Kryin Office**, where I'm exploring model integrations, LangGraph workflows and practical AI tooling.
+Through **KryinLabs**, I'm currently building software around AI and practical developer workflows. My main focus right now is **Kryin Office**, where I'm working with model integrations, LangGraph and AI-powered automation.
 
 > **I don't wait until I'm ready. I learn by shipping.**
 
 ## ⚡ Currently Building
 
-### Kryin Office
-AI workspace focused on connecting models, workflows and automation into one practical environment.
+**Kryin Office** — an AI workspace focused on connecting models, workflows and automation into one practical environment.
 
 `LangGraph` `AI APIs` `TypeScript` `React` `Supabase`
 
-**Private · Active development**
+*Private · Active development*
 
 ## 🧠 Knowledge & Tools
 
-*Click an icon to visit its official website or documentation.*
+*Click a technology to visit its official website or documentation.*
 
 ### Languages & Core
 
-<a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="64" alt="HTML"><br><sub>HTML</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="64" alt="CSS"><br><sub>CSS</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="64" alt="JavaScript"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="64" alt="TypeScript"><br><sub>TypeScript</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="64" alt="Python"><br><sub>Python</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="64" alt="C++"><br><sub>C++</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="64" alt="PHP"><br><sub>PHP</sub></a>
+<p>
+<a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-11191C?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-11191C?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-11191C?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-11191C?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-11191C?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-11191C?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"></a>
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-11191C?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"></a>
+</p>
 
 ### Frontend
 
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="64" alt="React"><br><sub>React</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="64" alt="Next.js"><br><sub>Next.js</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="64" alt="Tailwind CSS"><br><sub>Tailwind</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="64" alt="Vue.js"><br><sub>Vue.js</sub></a>
+<p>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-11191C?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-11191C?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-11191C?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-11191C?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"></a>
+</p>
 
 ### Backend · Data · Cloud
 
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="64" alt="Node.js"><br><sub>Node.js</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="64" alt="Laravel"><br><sub>Laravel</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="64" alt="MySQL"><br><sub>MySQL</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="64" alt="MongoDB"><br><sub>MongoDB</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="64" alt="Supabase"><br><sub>Supabase</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="64" alt="Firebase"><br><sub>Firebase</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="64" alt="Vercel"><br><sub>Vercel</sub></a>
+<p>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-11191C?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-11191C?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-11191C?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-11191C?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-11191C?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-11191C?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"></a>
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-11191C?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"></a>
+</p>
 
 `REST APIs` · `Authentication` · `Database Architecture` · `Cloud Deployment` · `API Integration`
 
 ### AI · Automation · Workflow Engineering
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="64" alt="Python"><br><sub>Python</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph" width="64" alt="LangGraph"><br><sub>LangGraph</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=openai" width="64" alt="OpenAI"><br><sub>OpenAI</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://ai.google.dev/"><img src="https://skillicons.dev/icons?i=gemini" width="64" alt="Google Gemini"><br><sub>Gemini</sub></a>
+<p>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-11191C?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-11191C?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangGraph"></a>
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-11191C?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI"></a>
+<a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini-11191C?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="Google Gemini"></a>
+</p>
 
 `LLM APIs` · `AI/ML` · `AI Workflows` · `Agent Workflows` · `Prompt Engineering` · `Python Automation` · `Discord.js`
 
 ### Systems · Tools · Infrastructure
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="64" alt="Git"><br><sub>Git</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="64" alt="GitHub"><br><sub>GitHub</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="64" alt="Linux"><br><sub>Linux</sub></a>&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="64" alt="VS Code"><br><sub>VS Code</sub></a>
+<p>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-11191C?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-11191C?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-11191C?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-11191C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"></a>
+</p>
 
 `Networking` · `Automation` · `Infrastructure` · `Server Management`
 
@@ -148,7 +157,7 @@ Discord bots, community automation, Minecraft server ecosystems, web panels, rol
 
 AI is part of my engineering toolkit — not a substitute for understanding what I'm building.
 
-**I use it to:** explore unfamiliar APIs and documentation, test architecture ideas, debug and review code, build AI-powered features, connect LLMs to real workflows, design graph/agent systems with LangGraph, and automate repetitive development work.
+I use it to explore unfamiliar APIs and documentation, test architecture ideas, debug and review code, build AI-powered features, connect LLMs to real workflows, design graph/agent systems with LangGraph, and automate repetitive development work.
 
 The important part is the engineering after the generation: **understand it, verify it, modify it, debug it, and maintain it.**
 
@@ -167,10 +176,10 @@ I'm especially interested in the layer where **software engineering meets intell
 ## 🌐 Find Me
 
 <p align="center">
-  <a href="https://github.com/ArthOfficial"><strong>⌘ GitHub</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ArthOfficial"><strong>◉ GitHub</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arth-hub.vercel.app/"><strong>◈ Portfolio</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:purohitarthbkn@gmail.com"><strong>✉ Email</strong></a>
 </p>
 
