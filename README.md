@@ -61,8 +61,6 @@ Through **KryinLabs**, I'm currently building software around AI and practical d
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-11191C?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"></a>
 </p>
 
-`REST APIs` · `Authentication` · `Database Architecture` · `Cloud Deployment` · `API Integration`
-
 ### AI · Automation · Workflow Engineering
 
 <p>
@@ -72,8 +70,6 @@ Through **KryinLabs**, I'm currently building software around AI and practical d
 <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini-11191C?style=for-the-badge&logo=google&logoColor=FFFFFF" alt="Google Gemini"></a>
 </p>
 
-`LLM APIs` · `AI/ML` · `AI Workflows` · `Agent Workflows` · `Prompt Engineering` · `Python Automation` · `Discord.js`
-
 ### Systems · Tools · Infrastructure
 
 <p>
@@ -82,8 +78,6 @@ Through **KryinLabs**, I'm currently building software around AI and practical d
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-11191C?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-11191C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"></a>
 </p>
-
-`Networking` · `Automation` · `Infrastructure` · `Server Management`
 
 ## 🚀 Selected Projects
 
@@ -153,19 +147,13 @@ Discord bots, community automation, Minecraft server ecosystems, web panels, rol
 `Discord.js` `Node.js` `MongoDB` `APIs` `Automation`
 </details>
 
-## 🤖 How I Work With AI
-
-AI is part of my engineering toolkit — not a substitute for understanding what I'm building.
-
-I use it to explore unfamiliar APIs and documentation, test architecture ideas, debug and review code, build AI-powered features, connect LLMs to real workflows, design graph/agent systems with LangGraph, and automate repetitive development work.
-
-The important part is the engineering after the generation: **understand it, verify it, modify it, debug it, and maintain it.**
-
 ## 🏅 Certificates & Credentials
 
-Real certificates and verifiable credentials will be listed here with their issuer and verification link.
-
-*No certificate is listed until the original credential or verification source is available.*
+<details>
+<summary><strong>AMD Developer Hackathon: ACT II</strong> — Certificate of Completion</summary>
+<br>
+<p align="center"><img src="./assets/certificates/amd-developer-hackathon-act-ii.svg" alt="AMD Developer Hackathon: ACT II certificate" width="72%"></p>
+</details>
 
 ## 🧭 Currently Exploring
 
