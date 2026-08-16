@@ -89,7 +89,7 @@ I prefer showing the technologies I actually work with as direct, clickable refe
 
 <p>
   <a href="https://www.python.org/"><img height="42" src="https://cdn.simpleicons.org/python" alt="Python"></a>&nbsp;
-  <a href="https://www.langchain.com/langgraph"><img height="42" src="https://cdn.simpleicons.org/langchain" alt="LangGraph / LangChain"></a>&nbsp;
+  <a href="https://www.langchain.com/langgraph"><img height="42" src="https://cdn.simpleicons.org/langgraph" alt="LangGraph"></a>&nbsp;
   <a href="https://openai.com/"><img height="42" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></a>&nbsp;
   <a href="https://ai.google.dev/"><img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini"></a>
 </p>
