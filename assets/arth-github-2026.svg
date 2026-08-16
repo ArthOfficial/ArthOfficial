@@ -1,49 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 360" width="1400" height="360">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05090b"/><stop offset=".55" stop-color="#091417"/><stop offset="1" stop-color="#050b0d"/></linearGradient>
-  <radialGradient id="glow" cx="70%" cy="35%" r="55%"><stop stop-color="#22d3ee" stop-opacity=".13"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8aa0a5" stroke-opacity=".06"/></pattern>
-  <linearGradient id="scan" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".95"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
-  <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
-  <filter id="textGlow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b0d"/><stop offset="0.55" stop-color="#0b1215"/><stop offset="1" stop-color="#080d0f"/></linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="0.55" stop-color="#22d3ee" stop-opacity="0.18"/><stop offset="1" stop-color="#34d399" stop-opacity="0.7"/></linearGradient>
+  <linearGradient id="rule" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0.9"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+  <radialGradient id="ambient" cx="82%" cy="28%" r="65%"><stop stop-color="#22d3ee" stop-opacity="0.09"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9fb0b5" stroke-opacity="0.045"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
   <style>
-    .a{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,SFMono-Regular,monospace}
-    .flicker{animation:flicker 4.8s steps(1,end) infinite}.glitch{animation:glitch 7s steps(1,end) infinite}
-    @keyframes flicker{0%,92%,100%{opacity:1}93%{opacity:.42}94%{opacity:1}96%{opacity:.7}97%{opacity:1}}
-    @keyframes glitch{0%,94%,100%{transform:translate(0)}95%{transform:translate(3px,-1px)}96%{transform:translate(-3px,1px)}}
+    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,SFMono-Regular,monospace}
+    .quiet{animation:quiet 7s ease-in-out infinite}
+    .scan{animation:scan 4.8s ease-in-out infinite}
+    .signal{animation:signal 3.6s linear infinite}
+    @keyframes quiet{0%,100%{opacity:.72}50%{opacity:1}}
+    @keyframes scan{0%{transform:translateX(-520px);opacity:0}12%{opacity:.8}52%{opacity:.8}72%{opacity:0}100%{transform:translateX(920px);opacity:0}}
+    @keyframes signal{0%{transform:translateX(0);opacity:0}10%{opacity:1}70%{opacity:1}100%{transform:translateX(500px);opacity:0}}
   </style>
 </defs>
+
 <rect width="1400" height="360" rx="18" fill="url(#bg)"/>
-<rect width="1400" height="360" rx="18" fill="url(#glow)"/>
-<rect width="1400" height="360" rx="18" fill="url(#grid)">
-  <animate attributeName="opacity" values=".72;.95;.72" dur="5s" repeatCount="indefinite"/>
-</rect>
-<g fill="none" stroke="#22d3ee" stroke-width="2">
-  <path d="M30 62V30h32M1338 30h32v32M30 298v32h32M1338 330h32v-32"/>
-  <path d="M30 76V30h46M1370 76V30h-46M30 284v46h46M1370 284v46h-46" opacity=".25"/>
+<rect width="1400" height="360" rx="18" fill="url(#ambient)"/>
+<rect width="1400" height="360" rx="18" fill="url(#grid)" class="quiet"/>
+<rect x="1" y="1" width="1398" height="358" rx="18" fill="none" stroke="#1b3035"/>
+<path d="M28 74V28H74M1326 28h46v46M28 286v46h46M1326 332h46v-46" fill="none" stroke="#22d3ee" stroke-width="2" stroke-opacity=".75"/>
+
+<text x="58" y="54" class="mono" font-size="13" letter-spacing="4" fill="#67e8f9">ARTH / GITHUB / 2026</text>
+<circle cx="1340" cy="49" r="4" fill="#34d399"/>
+<text x="1365" y="54" text-anchor="end" class="mono" font-size="11" letter-spacing="2.5" fill="#6ee7b7">ONLINE</text>
+
+<g>
+  <text x="58" y="196" class="sans" font-size="150" font-weight="800" letter-spacing="-8" fill="#f3f6f7">ARTH</text>
+  <rect x="58" y="214" width="96" height="3" fill="#22d3ee" class="scan"/>
 </g>
-<text x="58" y="54" class="m" font-size="14" letter-spacing="4" fill="#67e8f9">ARTH / GITHUB / 2026</text>
-<g class="glitch">
-  <text x="64" y="205" class="a" font-size="142" font-weight="850" letter-spacing="-7" fill="#22d3ee" opacity=".12" transform="translate(4 0)">ARTH.</text>
-  <text x="64" y="205" class="a" font-size="142" font-weight="850" letter-spacing="-7" fill="#f4f7f8">ARTH<tspan fill="#22d3ee" filter="url(#textGlow)">.</tspan></text>
+<text x="62" y="248" class="mono" font-size="14" letter-spacing="3.2" fill="#9db2b7">FULL-STACK DEVELOPER  ·  AI  ·  SYSTEMS</text>
+<rect x="62" y="274" width="575" height="1" fill="url(#rule)"/>
+<text x="62" y="306" class="mono" font-size="11" letter-spacing="2" fill="#617b82">BUILDING PRODUCTS WITH SOFTWARE, AUTOMATION &amp; INTELLIGENT WORKFLOWS</text>
+
+<line x1="748" y1="72" x2="748" y2="298" stroke="#20373d"/>
+<text x="798" y="82" class="mono" font-size="11" letter-spacing="3" fill="#5f7b82">CURRENT WORK</text>
+<text x="798" y="135" class="sans" font-size="39" font-weight="720" fill="#eef3f4">Kryin Office</text>
+<rect x="798" y="153" width="420" height="1" fill="#203a40"/>
+<text x="798" y="184" class="mono" font-size="12" letter-spacing="1.8" fill="#91a8ad">LANGGRAPH  ·  AI WORKFLOWS  ·  APIS</text>
+
+<text x="798" y="231" class="mono" font-size="11" letter-spacing="3" fill="#5f7b82">EDUCATION</text>
+<text x="798" y="260" class="sans" font-size="22" font-weight="620" fill="#dce5e7">Engineering College Bikaner</text>
+<text x="798" y="286" class="mono" font-size="10" letter-spacing="2.2" fill="#6a8389">ECB  /  INDIA</text>
+
+<g class="quiet">
+  <circle cx="1250" cy="82" r="5" fill="#34d399"/>
+  <circle cx="1250" cy="82" r="12" fill="none" stroke="#34d399" stroke-opacity=".22">
+    <animate attributeName="r" values="6;17;6" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".45;0;.45" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1270" y="86" class="mono" font-size="10" letter-spacing="2.2" fill="#6ee7b7">ACTIVE</text>
 </g>
-<text x="64" y="246" class="m" font-size="15" letter-spacing="3" fill="#a0b6bb">FULL-STACK DEVELOPER  ·  AI INTEGRATION  ·  SYSTEMS</text>
-<line x1="64" y1="278" x2="650" y2="278" stroke="#18353b" stroke-width="2"/>
-<rect x="64" y="276" width="220" height="4" rx="2" fill="url(#scan)" filter="url(#soft)">
-  <animate attributeName="x" values="64;490;64" dur="3.8s" repeatCount="indefinite"/>
-</rect>
-<text x="64" y="310" class="m" font-size="12" letter-spacing="2" fill="#69838a">BUILDING PRODUCTS WITH SOFTWARE, AI &amp; AUTOMATION</text>
-<line x1="770" y1="62" x2="770" y2="298" stroke="#1d383f" stroke-width="2"/>
-<line x1="770" y1="92" x2="1338" y2="92" stroke="#143037"/>
-<text x="820" y="86" class="m" font-size="13" letter-spacing="3" fill="#5e7b82">CURRENT FOCUS</text>
-<text x="820" y="145" class="a" font-size="42" font-weight="750" fill="#f0f5f6">Kryin Office</text>
-<text x="820" y="180" class="m" font-size="13" letter-spacing="1.5" fill="#8fa7ad">LANGGRAPH  ·  AI WORKFLOWS  ·  APIS</text>
-<text x="820" y="230" class="m" font-size="13" letter-spacing="3" fill="#5e7b82">EDUCATION</text>
-<text x="820" y="265" class="a" font-size="27" font-weight="650" fill="#dbe4e6">Engineering College Bikaner</text>
-<text x="820" y="294" class="m" font-size="11" letter-spacing="2" fill="#6b858b">ECB  /  INDIA</text>
-<circle cx="1290" cy="76" r="6" fill="#34d399" class="flicker"/>
-<circle cx="1290" cy="76" r="6" fill="none" stroke="#34d399" opacity=".35"><animate attributeName="r" values="6;15;6" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".45;0;.45" dur="2s" repeatCount="indefinite"/></circle>
-<text x="1308" y="81" class="m" font-size="12" letter-spacing="2.5" fill="#6ee7b7">ACTIVE</text>
-<circle cx="780" cy="92" r="2.5" fill="#22d3ee"><animateMotion dur="4s" repeatCount="indefinite" path="M0 0 H550"/></circle>
-<text x="1338" y="330" text-anchor="end" class="m" font-size="11" letter-spacing="2.5" fill="#536d74">BUILD / SHIP / LEARN</text>
+
+<g class="signal" fill="#22d3ee"><circle cx="770" cy="72" r="2.5"/><circle cx="778" cy="72" r="1" opacity=".4"/></g>
+<text x="1340" y="330" text-anchor="end" class="mono" font-size="10" letter-spacing="2.5" fill="#506a71">BUILD / SHIP / LEARN</text>
 </svg>
