@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I'm **Arth (Narco)** — a developer and product builder from India, currently studying at **Engineering College Bikaner (ECB)**.
+**Arth (Narco)** — full-stack developer and product builder from India, currently at **Engineering College Bikaner (ECB)**.
 
-I started by experimenting with Discord communities, Minecraft ecosystems and automation, then moved into full-stack applications, SaaS products, cloud infrastructure and AI-powered workflows. I enjoy understanding how products work end-to-end — from interfaces and APIs to data, deployment and automation.
+I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack products, SaaS systems, cloud infrastructure and AI-powered applications. I enjoy working across the stack — from interfaces and APIs to data, deployment and the systems connecting everything together.
 
-Through **KryinLabs**, I'm building software around AI and practical developer workflows. My current focus is **Kryin Office**, where I'm working with model integrations, LangGraph and AI-powered automation.
+Through **KryinLabs**, I'm building software around practical AI and developer workflows. My current focus is **Kryin Office**, where I'm working with model integrations, LangGraph and AI-powered automation.
 
-> **I don't wait until I'm ready. I learn by shipping.**
+> **Build it. Understand it. Ship it. Improve it.**
 
 ## ⚡ Currently Building
 
@@ -150,9 +150,22 @@ Discord bots, community automation, Minecraft server ecosystems, web panels, rol
 
 ## 🏅 Certificates & Credentials
 
-Real certificates and verifiable credentials will be listed here with their issuer and verification link.
+<details>
+<summary><strong>01 · AMD Developer Hackathon — ACT II</strong></summary>
+<br>
 
-*No certificate is listed until the original credential or verification source is available.*
+<p align="center">
+  <img src="./assets/certificates/amd-developer-hackathon-act-ii.svg" alt="AMD Developer Hackathon ACT II certificate showcase" width="100%">
+</p>
+
+**Issuer:** LabLab · NativelyAI  
+**Event:** AMD Developer Hackathon: ACT II  
+**Dates:** Jul 6 – 13, 2026  
+**Credential ID:** `CMSR98A9V02E1S601DDRU0DQC`
+
+</details>
+
+> More verified certificates and credentials will be added here as they are completed.
 
 ## 🧭 Currently Exploring
 
