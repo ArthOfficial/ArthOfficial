@@ -14,7 +14,13 @@
 <!-- quiet, editorial canvas -->
 <rect width="1400" height="420" rx="22" fill="url(#bg)"/>
 <rect width="1400" height="420" rx="22" fill="url(#grid)"/>
-<rect x="1" y="1" width="1398" height="418" rx="21" fill="none" stroke="#26363a"/>
+
+<!-- refined outer frame: visible at the true edge -->
+<rect x="2" y="2" width="1396" height="416" rx="21" fill="none" stroke="#405158" stroke-width="2"/>
+<rect x="8" y="8" width="1384" height="404" rx="17" fill="none" stroke="#1c2a2e" stroke-width="1"/>
+
+<!-- subtle corner registration marks -->
+<path d="M24 52V24H52 M1348 24H1376V52 M24 368V396H52 M1348 396H1376V368" fill="none" stroke="#21c8d6" stroke-opacity=".72" stroke-width="1.5"/>
 
 <!-- header -->
 <text x="60" y="58" class="m" font-size="12" letter-spacing="4" fill="#71878c">ARTH OFFICIAL</text>
@@ -43,7 +49,7 @@
 <text x="812" y="251" class="s" font-size="22" font-weight="600" fill="#dce4e6">Engineering College Bikaner</text>
 <text x="812" y="276" class="m" font-size="10" letter-spacing="2" fill="#627b80">ECB  /  INDIA</text>
 
-<!-- only a restrained status animation -->
+<!-- restrained status animation -->
 <g class="blink">
   <circle cx="1284" cy="82" r="4" fill="#35d29a"/>
   <text x="1300" y="86" class="m" font-size="9" letter-spacing="2.2" fill="#69dcae">ACTIVE</text>
