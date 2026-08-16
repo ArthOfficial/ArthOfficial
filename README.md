@@ -1,180 +1,224 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Arth aka Narco</h1>
-
-<h3 align="center">
-  Vibe Coder • Full-Stack Developer • Pentester • AI Builder
-</h3>
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+of+KryinLabs;Building+the+Future+of+AI+Workspaces;Vibe+Coder+%26+Curious+Learner"
-    alt="Typing SVG"
-  />
+  <img src="./assets/arth-github-2026.svg" alt="ARTH — GitHub 2026" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ArthOfficial">
-    <img
-      src="https://komarev.com/ghpvc/?username=ArthOfficial&label=Profile%20Views&color=6C63FF&style=for-the-badge"
-      alt="Profile Views"
-    />
-  </a>
+  <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/badge/GitHub-ArthOfficial-11191c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://arth-hub.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ArthHub-11191c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/ArthOfficial/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio%20Source-View-11191c?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source"></a>
+  <a href="mailto:purohitarthbkn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-11191c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center"><sub>Engineering College Bikaner (ECB) · India</sub></p>
+
+<p align="center"><img src="./assets/current-status.svg" alt="Current development status" width="100%"></p>
+
+## About
+
+I'm **Arth**, a full-stack developer and builder from India.
+
+I started by experimenting with Discord communities, Minecraft ecosystems and automation. That gradually turned into building full-stack applications, SaaS-style products, AI integrations and systems that connect the frontend, backend, data and deployment layers together.
+
+I enjoy figuring out how things work end-to-end — then turning that understanding into something useful.
+
+> **I don't wait until I'm ready. I learn by shipping.**
+
+Currently studying at **Engineering College Bikaner (ECB)** while continuing to build, experiment and sharpen my engineering fundamentals.
+
 ---
 
-## 🚀 About Me
+## 🧠 Knowledge
 
-I'm **Arth (Narco)**, a 17-year-old developer, builder, and founder from India.
+### Languages & Core
 
-I started by experimenting with Discord communities, Minecraft ecosystems, and automation projects. Over time, that curiosity evolved into building full-stack applications, AI-powered systems, and products designed for real users.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,php" alt="HTML CSS JavaScript TypeScript Python C++ PHP">
+</p>
 
-Today, through **KryinLabs**, I'm focused on creating software that combines artificial intelligence, automation, and thoughtful user experiences.
+### Frontend
 
-> I don't wait until I'm ready. I learn by shipping.
->
-> Every project is a classroom, and every bug is a lesson.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue" alt="React Next.js Tailwind CSS Vue">
+</p>
 
----
+### Backend, Data & Cloud
 
-## 📈 By The Numbers
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb,supabase,firebase,vercel" alt="Node.js Laravel MySQL MongoDB Supabase Firebase Vercel">
+</p>
 
-<table>
-<tr>
-<td align="center">
-<h3>3+</h3>
-Years Coding
-</td>
+### Tools & Systems
 
-<td align="center">
-<h3>5+</h3>
-Major Projects
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git GitHub Linux VS Code">
+</p>
 
-<td align="center">
-<h3>∞</h3>
-Curiosity Level
-</td>
-</tr>
-</table>
+`REST APIs` · `Authentication` · `API Integration` · `Discord.js` · `Automation` · `Networking`
+
+### AI / ML & Workflow Engineering
+
+`LangGraph` · `LLM APIs` · `AI/ML` · `AI workflow integration` · `Agent workflows` · `Prompt engineering` · `Python automation`
+
+> **Currently going deeper into:** C++ · Python · Networking · AI/ML · LangGraph
 
 ---
 
 ## ⚡ Currently Building
 
-* 🏫 **Edunex** — Education infrastructure platform
-* 🚀 **KryinLabs** — AI products, automation, and SaaS ventures
+<p align="center"><img src="./assets/projects/kryin-office.svg" alt="Kryin Office" width="100%"></p>
+
+**Kryin Office** — an AI workspace focused on bringing models, AI workflows and useful automation into one practical developer/productivity environment.
+
+Working with **LangGraph, AI APIs, TypeScript, React and Supabase**.
+
+The repository is currently private while development continues.
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Selected Projects
 
 <details>
-<summary><b>🏫 Edunex — Education Infrastructure Platform</b></summary>
+<summary><b>01 · Kryin Office</b> — AI Workspace</summary>
 
 <br>
 
-A modern school operating system designed to simplify administration, communication, analytics, and academic workflows.
+<p align="center"><img src="./assets/projects/kryin-office.svg" alt="Kryin Office project banner" width="100%"></p>
 
-**Highlights**
+A lightweight AI workspace exploring practical model integrations, workflow orchestration and agent-style automation.
 
-* Student & staff management
-* Smart attendance systems
-* Academic workflow automation
-* Reporting & analytics
-* AI-powered tools
+**Stack / concepts**
+
+`LangGraph` `AI APIs` `TypeScript` `React` `Supabase` `AI workflows`
+
+**Status:** Private · Active development
 
 </details>
 
 <details>
-<summary><b>🧠 InsightFlow AI — YouTube Intelligence Platform</b></summary>
+<summary><b>02 · Edunex</b> — Education Infrastructure</summary>
 
 <br>
 
-An AI-powered analytics platform that transforms videos, comments, and audience feedback into actionable insights.
+<p align="center"><img src="./assets/projects/edunex.svg" alt="Edunex project banner" width="100%"></p>
 
-**Highlights**
+A school-focused platform built around administration, academic workflows, attendance and everyday management.
 
-* Comment sentiment analysis
-* Topic clustering
-* Audience intelligence
-* Feature request extraction
-* Automated reporting
-* Creator growth insights
+**Stack / concepts**
+
+`Full-stack` `Education workflows` `Attendance` `Administration`
+
+<p>
+  <a href="https://github.com/ArthOfficial/edunex"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EDUNEX-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Edunex repository"></a>
+</p>
 
 </details>
 
 <details>
-<summary><b>👨‍👩‍👧 Parental Monitoring System</b></summary>
+<summary><b>03 · Parental Monitoring</b> — Digital Safety</summary>
 
 <br>
 
-A digital safety platform focused on transparency, monitoring, and responsible device management.
+<p align="center"><img src="./assets/projects/parental-monitoring.svg" alt="Parental Monitoring project banner" width="100%"></p>
 
-**Highlights**
+A monitoring and device-management project exploring activity visibility, controls, alerts, startup behavior and remote connectivity.
 
-* Activity monitoring
-* Dashboard analytics
-* Permission controls
-* Alerts & notifications
-* Secure infrastructure
+**Stack / concepts**
+
+`JavaScript` `Firebase` `Node.js` `VBS` `Tunneling` `Automation`
+
+<p>
+  <a href="https://github.com/ArthOfficial/Parental-Monitoring"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-PARENTAL%20MONITORING-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Parental Monitoring repository"></a>
+</p>
 
 </details>
 
 <details>
-<summary><b>🆔 University Identity Management System</b></summary>
+<summary><b>04 · Advanced Attendance System</b> — Campus Management</summary>
 
 <br>
 
-Institutional identity and access management platform.
+<p align="center"><img src="./assets/projects/advanced-attendance.svg" alt="Advanced Attendance System project banner" width="100%"></p>
 
-**Highlights**
+An advanced attendance and campus-management project focused on practical administration, attendance workflows and reporting.
 
-* ID card generation
-* PDF automation
-* Approval workflows
-* Database integration
-* Administrative controls
+**Focus**
+
+`Attendance` `Management` `Automation` `Reporting` `Full-stack`
+
+<p>
+  <a href="https://github.com/ArthOfficial/Advanced-Attendance-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-ATTENDANCE%20SYSTEM-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Advanced Attendance repository"></a>
+</p>
 
 </details>
 
 <details>
-<summary><b>🎮 Minecraft Community Ecosystem</b></summary>
+<summary><b>05 · Kryin Ephor</b> — Product / SaaS Work</summary>
 
 <br>
 
-A collection of web platforms, Discord integrations, automation tools, and infrastructure systems for gaming communities.
+A KryinLabs project and part of my broader work around building software products and SaaS systems.
 
-**Highlights**
+<p>
+  <a href="https://github.com/ArthOfficial/KryinEphor"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-KRYIN%20EPHOR-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Kryin Ephor repository"></a>
+</p>
 
-* Authentication systems
-* Community dashboards
-* Server integrations
-* Automation workflows
-* Role management
+</details>
+
+<details>
+<summary><b>06 · Minecraft & Discord Ecosystems</b> — Communities / Automation</summary>
+
+<br>
+
+One of the foundations of my development journey: Discord bots, community automation, Minecraft server ecosystems, web panels, role systems and integrations.
+
+`Discord.js` `Node.js` `MongoDB` `APIs` `Automation`
 
 </details>
 
 ---
 
-## 🧠 Philosophy
+## 🤖 How I Work With AI
 
-I enjoy building products that people actually use.
+AI is part of my engineering toolkit — not a substitute for understanding what I'm building.
 
-Whether it's an AI platform, an educational system, or a community tool, my goal is always the same:
+I use it for things such as:
 
-**Build something useful. Ship it. Learn from it. Improve it. Repeat.**
+- exploring unfamiliar libraries, APIs and documentation
+- testing architecture ideas and implementation approaches
+- debugging and reviewing code
+- building AI-powered product features
+- connecting LLMs to real application workflows
+- designing graph-based workflows with **LangGraph**
+- automating repetitive development tasks
+- rapidly testing ideas before validating the actual implementation
+
+The goal is simple: **understand it, verify it, modify it and be able to maintain it.**
 
 ---
 
-## 🎯 Mission
+## 📊 GitHub Activity
 
-Building the next generation of AI-powered software through KryinLabs while creating tools that improve education, productivity, and digital experiences.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthOfficial&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=8fa7ad&icon_color=22d3ee" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthOfficial&hide_border=true&background=00000000&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=8fa7ad&dates=607b82&sideNums=8fa7ad&currStreakNum=8fa7ad" height="165" alt="GitHub streak">
+</p>
 
 ---
 
-## 🌐 Connect
+## 🧭 What I'm Exploring
 
-- GitHub → [ArthOfficial](https://github.com/ArthOfficial)
-- Portfolio → **[ArthHub](https://arth-hub.vercel.app/)**
-- Email → [purohitarthbkn@gmail.com](mailto:purohitarthbkn@gmail.com)
+`C++` · `Python` · `Networking` · `AI/ML` · `LangGraph` · `AI agents` · `Systems` · `Cloud`
+
+I'm especially interested in the layer where **software engineering meets intelligent systems** — applications where AI is actually part of the workflow rather than just a feature pasted onto the interface.
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+  <a href="https://github.com/ArthOfficial"><img src="https://img.shields.io/badge/GitHub-ArthOfficial-11191c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://arth-hub.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ArthHub-11191c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:purohitarthbkn@gmail.com"><img src="https://img.shields.io/badge/Email-purohitarthbkn%40gmail.com-11191c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center"><sub>Built, shipped and continuously improved from India.</sub></p>
