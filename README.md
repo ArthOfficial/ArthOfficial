@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+of+KryinLabs;Building+AI-Powered+Workspaces;Full-Stack+Developer+%26+Product+Builder;AI+Workflows+%C2%B7+Automation+%C2%B7+Systems" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <sub>Engineering College Bikaner (ECB) · India</sub>
-</p>
+<p align="center"><sub>Engineering College Bikaner (ECB) · India</sub></p>
 
 ---
 
@@ -16,111 +14,80 @@
 
 <h3>Arth — Full-Stack Developer & Builder</h3>
 
-<p>
-I build web applications, automation systems and AI-powered software with a focus on understanding the full system behind the interface.
-</p>
+<p>I build web applications, automation systems and AI-powered software with a focus on understanding the full system behind the interface.</p>
 
-<p>
-I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack development, SaaS products, cloud infrastructure and AI workflow engineering.
-</p>
+<p>I started with Discord communities, Minecraft ecosystems and automation, then moved into full-stack development, SaaS products, cloud infrastructure and AI workflow engineering.</p>
 
-<p>
-Today, through <strong>KryinLabs</strong>, I'm focused on building useful software around AI, automation and modern digital workflows.
-</p>
+<p>Today, through <strong>KryinLabs</strong>, I'm focused on building useful software around AI, automation and modern digital workflows.</p>
 
-<blockquote>
-<strong>I don't wait until I'm ready. I learn by shipping.</strong><br>
-Every project is a classroom. Every bug is a lesson.
-</blockquote>
+<blockquote><strong>I don't wait until I'm ready. I learn by shipping.</strong><br>Every project is a classroom. Every bug is a lesson.</blockquote>
 
 ---
 
 <h2>⚡ CURRENTLY BUILDING</h2>
 
-<table width="100%">
-<tr>
-<td width="68%">
 <h3>🚀 Kryin Office</h3>
 <p>An AI workspace focused on model integrations, workflow orchestration and practical automation.</p>
 <p><code>LangGraph</code> <code>AI APIs</code> <code>TypeScript</code> <code>React</code> <code>Supabase</code></p>
-</td>
-<td align="center" width="32%">
-<strong>● ACTIVE</strong><br>
-<sub>Private development</sub>
-</td>
-</tr>
-</table>
+<p><strong>● ACTIVE DEVELOPMENT</strong> · Private</p>
 
 ---
 
 <h2>🧠 KNOWLEDGE & TOOLS</h2>
 
-<p><sub>Clickable icons open the official website or documentation for each technology.</sub></p>
+<p><sub>Click an icon to visit the official website or documentation.</sub></p>
 
 <h3>Languages & Core</h3>
+<p align="left">
+  <a href="https://html.spec.whatwg.org/" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="58" alt="HTML"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="58" alt="CSS"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="58" alt="JavaScript"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="58" alt="TypeScript"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="58" alt="Python"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="58" alt="C++"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="58" alt="PHP"></a>
+</p>
 
-<table>
-<tr>
-<td align="center"><a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" height="52" alt="HTML"></a><br><sub>HTML</sub></td>
-<td align="center"><a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" height="52" alt="CSS"></a><br><sub>CSS</sub></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="52" alt="JavaScript"></a><br><sub>JavaScript</sub></td>
-<td align="center"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="52" alt="TypeScript"></a><br><sub>TypeScript</sub></td>
-<td align="center"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"></a><br><sub>Python</sub></td>
-<td align="center"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="52" alt="C++"></a><br><sub>C++</sub></td>
-<td align="center"><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="52" alt="PHP"></a><br><sub>PHP</sub></td>
-</tr>
-</table>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>C++</code> <code>PHP</code></p>
 
 <h3>Frontend</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="52" alt="React"></a><br><sub>React</sub></td>
-<td align="center"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="52" alt="Next.js"></a><br><sub>Next.js</sub></td>
-<td align="center"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="52" alt="Tailwind CSS"></a><br><sub>Tailwind</sub></td>
-<td align="center"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="52" alt="Vue.js"></a><br><sub>Vue</sub></td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="58" alt="React"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="58" alt="Next.js"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="58" alt="Tailwind CSS"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org/" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" width="58" alt="Vue.js"></a>
+</p>
+<p><code>React</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Vue.js</code> <code>UI/UX</code></p>
 
 <h3>Backend · Data · Cloud</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="52" alt="Node.js"></a><br><sub>Node.js</sub></td>
-<td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" height="52" alt="Laravel"></a><br><sub>Laravel</sub></td>
-<td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="52" alt="MySQL"></a><br><sub>MySQL</sub></td>
-<td align="center"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="52" alt="MongoDB"></a><br><sub>MongoDB</sub></td>
-<td align="center"><a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="52" alt="Supabase"></a><br><sub>Supabase</sub></td>
-<td align="center"><a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="52" alt="Firebase"></a><br><sub>Firebase</sub></td>
-<td align="center"><a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="52" alt="Vercel"></a><br><sub>Vercel</sub></td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="58" alt="Node.js"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="58" alt="Laravel"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="58" alt="MySQL"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="58" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="58" alt="Supabase"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="58" alt="Firebase"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="58" alt="Vercel"></a>
+</p>
+<p><code>REST APIs</code> <code>Authentication</code> <code>Database Architecture</code> <code>Cloud Deployment</code> <code>API Integration</code></p>
 
 <h3>AI · Automation · Workflow Engineering</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="52" alt="Python"></a><br><sub>Python</sub></td>
-<td align="center"><a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph" height="52" alt="LangGraph"></a><br><sub>LangGraph</sub></td>
-<td align="center"><a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=openai" height="52" alt="OpenAI"></a><br><sub>OpenAI</sub></td>
-<td align="center"><a href="https://ai.google.dev/"><img src="https://skillicons.dev/icons?i=gemini" height="52" alt="Google Gemini"></a><br><sub>Gemini</sub></td>
-</tr>
-</table>
-
-<p><code>LLM APIs</code> <code>AI/ML</code> <code>AI workflows</code> <code>Agent workflows</code> <code>Prompt engineering</code> <code>Python automation</code> <code>Discord.js</code></p>
+<p align="left">
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="58" alt="Python"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph" width="58" alt="LangGraph"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/" title="OpenAI"><img src="https://skillicons.dev/icons?i=openai" width="58" alt="OpenAI"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ai.google.dev/" title="Google Gemini"><img src="https://skillicons.dev/icons?i=gemini" width="58" alt="Google Gemini"></a>
+</p>
+<p><code>LLM APIs</code> <code>AI/ML</code> <code>AI Workflows</code> <code>Agent Workflows</code> <code>Prompt Engineering</code> <code>Python Automation</code> <code>Discord.js</code></p>
 
 <h3>Systems · Tools · Infrastructure</h3>
-
-<table>
-<tr>
-<td align="center"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="52" alt="Git"></a><br><sub>Git</sub></td>
-<td align="center"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="52" alt="GitHub"></a><br><sub>GitHub</sub></td>
-<td align="center"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="52" alt="Linux"></a><br><sub>Linux</sub></td>
-<td align="center"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="52" alt="VS Code"></a><br><sub>VS Code</sub></td>
-</tr>
-</table>
-
-<p><code>REST APIs</code> <code>Authentication</code> <code>API Integration</code> <code>Automation</code> <code>Networking</code></p>
+<p align="left">
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="58" alt="Git"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="58" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="58" alt="Linux"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="58" alt="VS Code"></a>
+</p>
+<p><code>Networking</code> <code>REST APIs</code> <code>Authentication</code> <code>Automation</code> <code>Infrastructure</code></p>
 
 ---
 
@@ -192,12 +159,16 @@ Every project is a classroom. Every bug is a lesson.
 
 <p>AI is part of my engineering toolkit — not a substitute for understanding what I'm building.</p>
 
-<table width="100%">
-<tr><td width="50%">🔎 Explore unfamiliar APIs & libraries</td><td width="50%">🏗️ Test architecture & implementation ideas</td></tr>
-<tr><td>🐛 Debug & review code</td><td>🧠 Build AI-powered product features</td></tr>
-<tr><td>🔌 Connect LLMs to real workflows</td><td>🕸️ Design graph workflows with LangGraph</td></tr>
-<tr><td>⚙️ Automate repetitive work</td><td>✅ Validate and maintain the final implementation</td></tr>
-</table>
+<ul>
+<li>🔎 Explore unfamiliar APIs, libraries and documentation</li>
+<li>🏗️ Test architecture and implementation ideas</li>
+<li>🐛 Debug, review and reason through code</li>
+<li>🧠 Build AI-powered product features</li>
+<li>🔌 Connect LLMs to real application workflows</li>
+<li>🕸️ Design graph and agent workflows with LangGraph</li>
+<li>⚙️ Automate repetitive development and operational work</li>
+<li>✅ Understand, verify, modify and maintain the final implementation</li>
+</ul>
 
 <blockquote><strong>Understand it. Verify it. Modify it. Maintain it.</strong></blockquote>
 
@@ -213,7 +184,7 @@ Every project is a classroom. Every bug is a lesson.
 
 <h2>🧭 CURRENTLY EXPLORING</h2>
 
-<p><code>C++</code> <code>Python</code> <code>Networking</code> <code>AI/ML</code> <code>LangGraph</code> <code>AI agents</code> <code>Systems</code> <code>Cloud</code></p>
+<p><code>C++</code> <code>Python</code> <code>Networking</code> <code>AI/ML</code> <code>LangGraph</code> <code>AI Agents</code> <code>Systems</code> <code>Cloud</code></p>
 
 <p>I'm especially interested in the layer where <strong>software engineering meets intelligent systems</strong> — applications where AI is part of the workflow rather than simply another feature in the interface.</p>
 
@@ -221,12 +192,12 @@ Every project is a classroom. Every bug is a lesson.
 
 <h2>🌐 FIND ME</h2>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%"><h3>⌘ <a href="https://github.com/ArthOfficial">GitHub</a></h3><sub>@ArthOfficial</sub></td>
-<td align="center" width="33%"><h3>◈ <a href="https://arth-hub.vercel.app/">Portfolio</a></h3><sub>ArthHub</sub></td>
-<td align="center" width="33%"><h3>✉ <a href="mailto:purohitarthbkn@gmail.com">Email</a></h3><sub>Let's connect</sub></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ArthOfficial"><strong>⌘ GitHub</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://arth-hub.vercel.app/"><strong>◈ Portfolio</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:purohitarthbkn@gmail.com"><strong>✉ Email</strong></a>
+</p>
 
 <p align="center"><sub>Built, shipped and continuously improved from India.</sub></p>
